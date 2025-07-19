@@ -1,5 +1,37 @@
 
-# 11. Criteris per a adaptar els mòduls de Digitalització i Sostenibilitat a les característiques específiques del perfil professional del cicle formatiu 
+# 11. Criteris per a adaptar els mòduls de Digitalització i Sostenibilitat a les característiques específiques del perfil professional del cicle formatiu
+
+Els mòduls **transversals** de **Digitalització Aplicada als Sectors Productius** i **Sostenibilitat Aplicada al Sistema Productiu** formen part del currículum comú de la nova Formació Professional i tenen un **caràcter integrador i contextual**. Per això, és necessari **adaptar-ne els continguts, activitats i enfocaments** a les **característiques del cicle formatiu de FPB en Informàtica d’Oficina**, així com al **perfil professional de l’alumnat** i a la realitat del teixit productiu de l'entorn.
+
+## Adaptació del mòdul de Digitalització
+
+El mòdul de **Digitalització** s’orientarà a dotar l’alumnat de competències bàsiques per a comprendre i aplicar processos de digitalització en contextos administratius i d’oficina. En concret, es treballaran:
+
+- **Ús d’eines digitals col·laboratives** (drive, calendari, suite ofimàtica en núvol, etc.)
+- **Digitalització de documents i arxius**, amb formats estandarditzats i criteris d’organització segura.
+- **Coneixements bàsics de ciberseguretat i protecció de dades**, aplicats a la gestió documental.
+- Introducció al concepte d’**automatització de tasques administratives** amb programari d’oficina.
+- Participació en **projectes de digitalització del centre o de la comunitat**, com per exemple, la gestió de fitxers o l’organització de dades per a esdeveniments escolars.
+
+## Adaptació del mòdul de Sostenibilitat
+
+Pel que fa al mòdul de **Sostenibilitat**, es proposarà una aproximació pràctica i contextualitzada, que ajude a l’alumnat a comprendre l’impacte ambiental i social de les activitats administratives i digitals. Es prioritzaran:
+
+- Pràctiques d’**estalvi de recursos** en l’ús de tecnologies (paper, tinta, energia...).
+- **Gestió responsable de residus electrònics** (tòners, aparells informàtics obsolets).
+- Foment del **consum responsable**, especialment en compres i equipaments per a l’oficina.
+- Introducció al càlcul de la **petjada ecològica** i a l’impacte dels hàbits digitals (ús de núvol, enviament massiu de correus, etc.).
+- Participació en **projectes transversals** com el projecte de **reciclatge de plàstic i impressió 3D**, en col·laboració amb altres mòduls.
+
+## Enfocament transversal i coordinat
+
+Ambdós mòduls es desplegaran en coordinació amb la resta de mòduls del cicle, i **preferentment dins de situacions d’aprenentatge o projectes intermodulars**. Això garantirà:
+
+- **Contextualització real dels continguts**, afavorint la transferència d’aprenentatges.
+- **Avaluació integrada** a través de projectes i activitats col·laboratives.
+- **Enfocament competencial i vivencial**, orientat a la inserció laboral i la ciutadania responsable.
+
+L’equip docent establirà anualment, dins del **PAC**, quines activitats o projectes oferiran millor encaix per integrar **digitalització i sostenibilitat** dins del cicle, i quins criteris s’utilitzaran per a la seua avaluació.
 
 <!-- 
 El  sector  productiu  i  el  perfil  professional  determinen  necessitats  diferenciades  en relació amb els mòduls impartits.  
@@ -13,11 +45,7 @@ reciclatge, etc., així com càlcul de la petjada de carboni i de la petjada hí
 
 <!-- APARTAT ASSISTIT PER CHATGPT :-P -->
 
-Els mòduls de **Digitalització** i **Sostenibilitat** són transversals a tota la Formació Professional, però cal adaptar-los a les necessitats específiques de cada sector productiu. En el cas del Cicle Formatiu **Desenvolupament d'Aplicacions Multiplataforma (DAM)**, la **digitalització** té un enfocament pràctic i de **transformació tecnològica** de les empreses. D'altra banda, el mòdul de **Sostenibilitat** s'orienta a projectes aplicables com la **digitalització per a la implementació dels ODS**, incloent-hi, per exemple, **projectes d'economia col·laborativa**.
 
-### **Adaptació del Mòdul de Digitalització a DAM**
-
-El mòdul de **Digitalització** per al cicle de **DAM** se centrarà en la **transformació digital** de les empreses, mitjançant l'ús de **tecnologies digitals habilitadores** , com les plataformes cloud, la **Intel·ligència Artificial i el Big Data**, o l'aplicació d'**eines ERP**. Es farà èmfasi en l'adaptació de les **empreses tradicionals** a un **entorn digitalitzat** mitjançant **ERP**, que optimitze els seus processos empresarials (gestió de clients, finances, inventaris, etc.).
 
 <!-- Això ja són continguts adaptats; més que aci, cabrien en la programació/Adaptació del mòdul de Digitalització:
 
@@ -44,9 +72,7 @@ El mòdul de **Digitalització** per al cicle de **DAM** se centrarà en la **tr
 
 -->
 
-### **Adaptació del Mòdul de Sostenibilitat a DAM**
 
-El mòdul de **Sostenibilitat** es centrarà en **programes i projectes digitals** que contribueixin als **Objectius de Desenvolupament Sostenible (ODS)**, especialment en el **sector digital**. Es plantejaran **projectes d'economia col·laborativa** i altres **iniciatives sostenibles** en què la **digitalització** permeta **maximitzar l'impacte positiu** a nivell social, econòmic i ambiental.
 
 <!-- Igual que en sostenibilitat... això per a la progamació del mòdul:
 

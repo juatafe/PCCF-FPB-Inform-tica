@@ -54,26 +54,26 @@ copyright: |
   </div>
 
 nav:
-  - Introducció: 1-Introduccio.md
-  - Marc normatiu: 2-MarcNormatiu.md
-  - Adequació de les competències: 3-Adequacio.md
-  - Contribucio a les competències: 4-Contribucio-Compet.md
-  - Contribucio a la Ocupabilitat: 5-Contribucio-Ocupa.md
-  - Enfocaments metodològics: 6-EnfocamentsDidactics.md
-  - Organització dels mòduls: 7-OrganitzacioModuls.md
-  - Criteris generals: 8-CriterisGenerals.md
-  - Bases de dades d'empreses: 9-BasesDades.md
-  - Criteris plans formatius: 10-CriterisPlans.md
-  - Criteris Digitalització i Sostenibilitat: 11-CriterisDigiSos.md
-  - Pla Tutorial: 12-PlaTutorial.md
-  - Correcció dels plans i els programes: 13-CorreccioPlans.md
-  - Orientció per a l'ús dels espais: 14-OrientacioUsEspais.md
-  - Criteris d'avaluació: 15-CriterisAva.md
-  - Mesures de resposta educativa a la inclusió: 16-MRI.md
-  - Criteris per a la planificació d'activitats: 17-CriterisActivitats.md
-  - Criteris per a la planificació de projectes: 18-CriterisModulP.md
-  - Altres aspectes: 19-Altres.md
-  - Programacions d'aula: 20-PA.md
+  - 1-Introduccio.md
+  - 2-MarcNormatiu.md
+  - 3-Adequacio.md
+  - 4-Contribucio-Compet.md
+  - 5-Contribucio-Ocupa.md
+  - 6-EnfocamentsDidactics.md
+  - 7-OrganitzacioModuls.md
+  - 8-CriterisGenerals.md
+  - 9-BasesDades.md
+  - 10-CriterisPlans.md
+  - 11-CriterisDigiSos.md
+  - 12-PlaTutorial.md
+  - 13-CorreccioPlans.md
+  - 14-OrientacioUsEspais.md
+  - 15-CriterisAva.md
+  - 16-MRI.md
+  - 17-CriterisActivitats.md
+  - 18-CriterisModulP.md
+  - 19-Altres.md
+  - 20-PA.md
 
 markdown_extensions:
   - admonition

@@ -1,74 +1,78 @@
 
-
 # 8. Criteris generals sobre l'organització, la comunicació i desenvolupament del procés d'avaluació de l'aprenentatge
 
-El procés d'avaluació de l'alumnat en el cicle formatiu de Desenvolupament d'Aplicacions Multiplataforma es regirà per:
+El procés d’avaluació de l’alumnat en el cicle de Formació Professional Bàsica en Informàtica d’Oficina es regirà per:
 
-- L'**Orde 2025/13083** (DOGV 30.04.2025), que regula l'avaluació, acreditació, certificació i titulació en FP a la Comunitat Valenciana :contentReference[oaicite:1]{index=1}.
-- La **Llei orgànica 3/2022**, el **Reial decret 659/2023** i la normativa complementària, per a assegurar una avaluació continua centrada en els Resultats d'Aprenentatge (RA) :contentReference[oaicite:2]{index=2}.
-- L'**Orde 79/2010**, derogada en bona part per la nova Orde, encara vigent per a processos pendents :contentReference[oaicite:3]{index=3}.
+- L’**Ordre 2025/13083** (DOGV 30.04.2025), que regula l’avaluació, acreditació, certificació i titulació en l’FP a la Comunitat Valenciana.
+- La **Llei orgànica 3/2022**, d’ordenació i integració de la FP.
+- El **Reial decret 659/2023**, pel qual s’estableix l’ordenació del sistema de Formació Professional.
 
-Les premisses bàsiques en quant a avaluació que es desprenent de tota la normativa anterior són:
+Els principis generals que emanen d’aquesta normativa són:
 
-1. L'avaluació ha de ser una eina per facilitar l'aprenentatge competencial i la inserció laboral.
-2. Es valorarà el grau d'assoliment dels RA de cada mòdul, considerant la globalitat del cicle i el projecte intermodular :contentReference[oaicite:4]{index=4}.
+1. L’avaluació ha de ser **contínua, formativa i integradora**, adaptada als ritmes i característiques de l’alumnat.
+2. L’avaluació es basa en l’assoliment dels **Resultats d’Aprenentatge (RA)** definits per a cada mòdul.
+3. El procés ha de facilitar l’**orientació, la millora dels aprenentatges** i la **inserció laboral** de l’alumnat.
 
-**1. Organització de l'avaluació**
+## 8.1 Organització del procés d’avaluació
 
-El procés d'avaluació es durà a terme tenint el següent: 
+- Es realitzarà una **sessió inicial de diagnòstic** dins del primer mes de curs.
+- L’equip docent celebrarà **sessions d’avaluació trimestrals** i farà un seguiment setmanal de l’evolució de l’alumnat.
+- La **superació de cada mòdul** requerirà l’assoliment de tots els RA amb una qualificació mínima de 5 sobre 10.
+- L’alumnat amb una assistència inferior al 85% podrà perdre el dret a l’avaluació contínua.
+- Es preveuen **convocatòries ordinària i extraordinària** per a la recuperació dels RA no assolits.
+- El Projecte Intermodular serà també objecte d’avaluació coordinada entre els docents implicats.
 
-- L'avaluació ha de ser **contínua, formativa i integradora**, per mòduls i projecte intermodular.
-- Es realitzarà una **sessió inicial** abans de finalitzar el primer mes per detectar necessitats específiques.
-- Es realitzaran **sessions trimestrals** d'avaluació col·laboratives.
-- Hi ha d'haver una **assistència mínima del 85%** en règim presencial o semipresencial per mantenir el dret a l'avaluació contínua :contentReference[oaicite:5]{index=5}.
-- La **superació de tots els resultats d'aprenentage** implica la superació del mòdul en convocatòria ordinària. Si l'alumne no ha superat algun resultat d'aprenentatge o ha perdut el dret a l'avaluació continua, podrà presentar-se a la prova ordinària i/o extraordinària segons el calendari oficial del centre.
-- Cal **superar tots els mòduls** amb qualificació mínima de 5 per a l'obtenció del títol :contentReference[oaicite:6]{index=6}.
-- L'oferta semipresencial o a distància seguirà el mateix calendari i requisits que l'oferta presencial:contentReference[oaicite:7]{index=7}.
+## 8.2 Instruments d’avaluació
 
-Els **instruments d'avaluació** seran diversos, i s'aplicaran segons la metodologia aplicada en cada moment, així disposarem de:
+Els instruments d’avaluació es seleccionaran en funció del tipus de tasca i metodologia utilitzada:
 
-* Per a l'avaluació dels projectes intermodulars i els reptes:
-  * Seguiment del projecte mitjançant l'exposició dels resultats de cada part del projecte i la documentació i portfolis digitals generats, 
-  * Rúbriques, llistes de control,
-  * Coavaluació
-  * Autoavaluació
+- **Proves pràctiques i escrites**
+- **Observació sistemàtica**
+- **Portafolis**
+- **Rúbriques i llistes de control**
+- **Autoavaluació i coavaluació**
+- **Seguiment de projectes i activitats col·laboratives**
+- **Presentacions orals i informes tècnics**
 
-I de manera independent a l'avaluació de l'ABP tindrem:
+Els criteris d’avaluació s’ajustaran als RA i seran compartits amb l’alumnat des de l’inici del curs.
 
-* Exercicis i qüestionaris.
-* Pràctiques senzilles.
-* Examens o Proves escrites.
-* Casos d'estudi.
+## 8.3 Comunicació amb l’alumnat i les famílies
 
-**2. Comunicació amb alumnat i famílies**
+- Els criteris i instruments d’avaluació es publicaran a través de la plataforma *Aules* i seran explicats a l’alumnat a l’inici de cada mòdul.
+- L’equip docent mantindrà una **comunicació constant** mitjançant reunions de tutoria, notificacions digitals i entrevistes.
+- Els **butlletins oficials** de qualificacions es tramitaran a través de la plataforma *ITACA*.
+- Es fomentarà la **transparència i la participació activa** de les famílies en el seguiment del procés educatiu.
 
-- A l'inici de cada mòdul, el professorat informarà l'alumnat dels criteris, procediments i ponderacions de l'avaluació.
-- Aquesta informació estarà recollida en les unitats de programació i accessible a través de la plataforma educativa *Aules*.
-- A més quan s'aplique Aprenentatge Basat en Projectes (ABP), també s'hauran d'indicar quins són els mòduls implicats en ells, els criteris i les ponderacions dels criteris dels diferents mòduls.
-- **Tutories grupals i individuals**: es duran a terme en qualsevol modalitat (presencial, semipresencial o a distància) per tal de garantir un seguiment personalitzat i donar l'oportunitat de resoldre dubtes o qüestions relatives a l'aprenentatge.
-- Les qualificacions es comunicaran oficialment a través d'ITACA i els butlletins del centre.
-- Les qualificacions parcials es publicaran a través de la plataforma educativa (Aules) amb comentaris i orientacions de millora.
-- Les qualificacions s'obrintran a partir dels resultats d'aprenentatge (RA) aplicats en les diferents unitats de programació o projectes. Tots els RAs s'hauran d'aprovaramb una qualificació superior o igual a 5 sobre 10 de forma independent.
+## 8.4 Desenvolupament del procés d’avaluació
 
-**3. Desenvolupament del procés**
+- L’avaluació es realitzarà sobre **cada RA de forma diferenciada**.
+- Cada RA haurà d’estar **superat de forma individual** per considerar-se el mòdul aprovat.
+- El professorat farà **ajustaments metodològics i de planificació** segons l’evolució del grup.
+- L’avaluació continuarà en la **Formació en Entorns Laborals (FEE)**.
 
-El professorat autoavalua el procés d'ensenyament, basant-se en els RAs del currículum. Aquesta avaluació es realitzarà tenint en compte **tots els Resultats d'Aprenentatge (RA)** establerts en el currículum del cicle. És necessari **superar tots els RA** d'un mòdul per poder considerar-lo superat.
+## 8.5 Avaluació en la Formació en Entorns Laborals (FEE)
 
-Les qualificacions seran en una escala de 0–10, amb 5 com a mínim per aprovar.
+La FEE és una part fonamental del cicle formatiu. Es realitzarà:
 
-**4. Revisió i reclamació**
+- Mitjançant un **seguiment conjunt entre el centre educatiu i l’empresa**.
+- L’avaluació es fonamentarà en **l’assoliment dels RA relacionats amb el mòdul**, contextualitzats a l’entorn laboral.
+- L’empresa col·laboradora emetrà un **informe de valoració** i el tutor o tutora acadèmica completarà la qualificació.
 
-Segons la normativa vigent, l'alumnat té dreta a revisió i reclamació formal:contentReference[oaicite:8]{index=8}.
+> *L’avaluació de la FEE es regirà pels mateixos criteris de rigor, objectivitat i coherència que la resta de mòduls del cicle.*
 
-**5. Formació en Empresa (FEE)**
+## 8.6 Avaluació del procés docent i del professorat
+
+- El professorat realitzarà una **autoavaluació contínua** de la seua pràctica docent.
+- L’equip docent revisarà **trimestralment** la coherència i eficàcia de les seues programacions.
+- A final de curs, es farà una **avaluació col·lectiva** sobre:
+  - La selecció i seqüenciació de continguts.
+  - Els criteris i instruments d’avaluació utilitzats.
+  - L’adequació de les metodologies.
+  - Els resultats de l’alumnat i el seu progrés.
+
 
 <!-- CAL REVISAR-HO -->
 
-La formació en entorns professionals (FEE) és una part fonamental de la Formació Professional actual, i el seu objectiu és afavorir que l'alumnat puga aplicar les competències adquirides al centre en un entorn real de treball, connectant els Resultats d'Aprenentatge (RA) amb la realitat laboral del sector tecnològic. La formació en empresa (FEE) es realitzarà en col·laboració amb empreses del sector, que proporcionaran un espai de pràctiques laborals supervisades per professionals.
-
-***Avaluació en l'entorn professional (empresa)***
-
-Durant el període de formació en empresa, l'alumnat serà avaluat segons els Resultats d'Aprenentatge (RA) definits pel professorat i acordats amb l'empresa col·laboradora. Aquests RA s'han de relacionar amb les tasques concretes que l'alumnat realitzarà en l'entorn professional, de manera que l'empresa tingui un paper actiu en la seva avaluació.
 
 <!--
 
@@ -90,9 +94,7 @@ El pes d'aquests RA en l'avaluació final serà un 30% de la qualificació globa
 
 -->
 
-***Avaluació al centre educatiu***
 
-D'altra banda, la formació teòrica i pràctica al centre educatiu també serà essencial per garantir l'adquisició de les competències professionals del cicle. 
 
 <!-- Això de dalt també podriem lleva-ho, i dir que els RAs s'avaluen tant al centre educatiu com al centre de treball, segons la proporció indicaca a ... -->
 
@@ -108,21 +110,3 @@ El pes d'aquests RA al centre educatiu serà del 70% de la qualificació final d
 
 -->
 
-***Coordinació i seguiment de l'avaluació FEE***
-
-Per tal d'assegurar la coherència i coordinació entre l'empresa i el centre educatiu, es realitzarà un seguiment conjunt de l'alumnat mitjançant reunions periòdiques entre el tutor de FEE a l'empresa i el tutor acadèmic al centre, amb la col·laboració de la resta de professorat del grup. Durant aquestes reunions es revisarà el progrés de l'alumnat en la consecució dels RA establerts per a la formació en empresa, i es discutirà qualsevol possible ajust que calga realitzar en el pla de formació.
-
-Aquesta coordinació permetrà garantir que l'alumnat adquirisca una formació integral i ajustada als requeriments del mercat laboral, a la vegada que es fomentarà l'intercanvi de coneixements i experiències entre l'entorn acadèmic i el professional.
-
-**6. Avaluació del professorat i del procés docent**
-
-En l'avaluaió del procés docent es tindrà en compte:
-
-- L'evolució de l'alumnat mitjançant el treball, els projectes realitzats i el feedback que s'obté del mateix,
-- El seguiment trimestral de la programació per tal d'ajustar-la a l'evolució del grup d'alumnes.
-- Al marge d'aquesta avaluació continua, al finalitzar cada curs acadèmic, el departament didàctic avaluarà les seues programacions a la vista dels resultats obtinguts pels alumnes. L'avaluació de la programació didàctica es referirà a aspectes com:
-  - La selecció, distribució i seqüenciació dels continguts.
-  - Els criteris d'avaluació.
-  - La metodologia didàctica aplicada.
-  - Els materials i recursos didàctics utilitzats.
-  - Els resultats obtinguts pels alumnes.

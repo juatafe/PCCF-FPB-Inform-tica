@@ -5,33 +5,118 @@
 <!-- Per  a  la  coordinació  del  treball  educatiu,  és  necessari  monitorar  la  manera  com  cada mòdul contribuïx en el desenrotllament de les competències professionals. Això permetrà tindre una idea global de l'organització curricular i ens permetrà, en un nivell més avançat de programació, identificar resultats d'aprenentatge (d'ara en avant RA) clau el desenrotllament dels quals hàgem d'abordar en el nostre mòdul professional.  
 Per  a  arribar  a  este  nivell  de  concreció,  proposem  estructurar  una  taula  que  relacione els mòduls amb les competències professionals. L'associació s'establirà segons les orientacions pedagògiques del mateix reial decret que establix el títol i el debatrà l'equip educatiu que hauria de poder realitzar ajustos si ho considera necessari. -->
 
-La competència general d'aquest títol consisteix a *desenvolupar, implantar, documentar i mantenir aplicacions informàtiques multiplataforma, utilitzant tecnologies i entorns de desenvolupament específics, garantint l'accés a les dades de manera segura i complint els criteris de'"usabilitat" i qualitat exigides als estàndards establerts.*
 
-## Competències professionals
+Per a la coordinació del treball educatiu, és necessari **estudiar com cada mòdul contribueix al desenvolupament de les competències professionals** del títol. Aquesta visió integrada permet una planificació coherent i compartida entre els docents implicats, i ajuda a garantir que totes les competències requerides siguen abordades de manera progressiva i equilibrada al llarg del cicle formatiu.
 
-Les competències professionals s'extrauen de les Competències professionals, personals i socials del RD del títol:
+Aquest enfocament també permet, en un nivell més avançat de programació, **identificar resultats d’aprenentatge (RA) clau** que, pel seu caràcter transversal o pel seu impacte professional, requerisquen una atenció especial dins de cada mòdul. Així, el procés de programació pot ajustar-se per garantir que cap competència quede desatesa i que es desenvolupen de manera efectiva aquelles que són més rellevants per a la inserció laboral i el desenvolupament personal de l’alumnat.
 
-* **a)** Configurar i explotar sistemes informàtics, adaptant la configuració lògica del sistema segons les necessitats d'ús i els criteris establerts.
-* **b)** Aplicar tècniques i procediments relacionats amb la seguretat en sistemes, serveis i aplicacions, complint el pla de seguretat.
-* **c)** Gestionar bases de dades, interpretant-ne el disseny lògic i verificant integritat, consistència, seguretat i accessibilitat de les dades.
-* **d)** Gestionar entorns de desenvolupament adaptant-ne la configuració en cada cas per permetre el desenvolupament i desplegament d'aplicacions.
-* **e)** Desenvolupar aplicacions multiplataforma amb accés a bases de dades utilitzant llenguatges, llibreries i eines adequats a les especificacions.
-* **f)** Desenvolupar aplicacions implementant un sistema complet de formularis i informes que permetin gestionar de forma integral la informació emmagatzemada.
-* **g)** Integrar continguts gràfics i components multimèdia en aplicacions multiplataforma, emprant eines específiques i complint els requeriments establerts.
-* **h)** Desenvolupar interfícies gràfiques d'usuari interactius i amb la usabilitat adequada, emprant components visuals estàndard o implementant components visuals específics.
-* **i)** Participar en el desenvolupament de jocs i aplicacions en l'àmbit de l'entreteniment i l'educació emprant tècniques, motors i entorns de desenvolupament específics.
-* **j)** Desenvolupar aplicacions per a telèfons mòbils, tauletes i altres dispositius intel·ligents emprant tècniques i entorns de desenvolupament específics.
-* **k)** Crear ajudes generals i sensibles al context, emprant eines específiques i integrant-les en les aplicacions corresponents.
-* **l)** Crear tutorials, manuals dusuari, dinstal·lació, de configuració i dadministració, emprant eines específiques.
-* **m)** Empaquetar aplicacions per a la seva distribució preparant paquets autoinstal·lables amb assistents incorporats.
-* **n)** Desenvolupar aplicacions multiprocés i multifil emprant llibreries i tècniques de programació específiques.
-* **ñ)** Desenvolupar aplicacions capaces d'oferir serveis en xarxa emprant mecanismes de comunicació.
-* **o)** Participar en la implantació de sistemes ERP-CRM avaluant la utilitat de cadascun dels seus mòduls.
-* **p)** Gestionar la informació emmagatzemada en sistemes ERP-CRM garantint-ne la integritat.
-* **q)** Desenvolupar components personalitzats per a un sistema ERP-CRM atenent els requeriments.
-* **r)** Realitzar plans de proves verificant el funcionament dels components programari desenvolupats, segons les especificacions.
-* **s)** Desplegar i distribuir aplicacions en diferents àmbits d'implantació verificant-ne el comportament i realitzant les modificacions necessàries.
+Per tal d’arribar a aquest nivell de concreció, es proposa estructurar una **taula de contribució competencial**, en què es relacione cada mòdul amb les competències professionals del perfil. Aquesta associació s’establix a partir de les orientacions del Reial decret que regula el títol (RD 356/2014), i pot ser revisada o ajustada per l’equip educatiu si ho considera oportú, d’acord amb les característiques del context i del grup classe.
 
-Este equip educatiu ha decidit mantindre les relacions establides en les recomanacions pedagògiques del títol. Per això no es modificarà la manera d'abordar les competències professionals en els mòduls.
+La **competència general** del títol és la següent:
 
-{contribucio_cp}
+> *"Realitzar operacions auxiliars de muntatge i manteniment de sistemes microinformàtics, perifèrics i xarxes de comunicació de dades, i de tractament, reproducció i arxiu de documents, operant amb la qualitat indicada i actuant en condicions de seguretat i de protecció ambiental amb responsabilitat i iniciativa personal, i comunicant-se de forma oral i escrita en llengua castellana, i si escau, en la llengua cooficial pròpia, així com en alguna llengua estrangera."*
+
+## 4.1. Taula de correspondència entre mòduls i competències professionals
+
+A continuació es presenta la relació entre els **mòduls professionals** del cicle i les **competències professionals, personals i socials** que contribueixen a desenvolupar:
+
+| **Mòdul Professional**                                                   | **Competències Professionals, Personals i Socials Desenvolupades**       |
+|--------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| 3029. Muntatge i manteniment de sistemes i components informàtics       | c), d), e), f), g), h), i), j)                                             |
+| 3030. Operacions auxiliars per a la configuració i explotació           | a), j)                                                                    |
+| 3016. Instal·lació i manteniment de xarxes per a transmissió de dades   | h), i)                                                                    |
+| 3031. Ofimàtica i arxiu de documents                                     | a), b), j)                                                                |
+| 3011. Comunicació i societat I                                           | m), n), ñ), o), p)                                                        |
+| 3012. Comunicació i societat II                                          | q), r), s), t), u), v), w)                                                |
+| 3009. Ciències aplicades I                                              | j), k), l), m)                                                            |
+| 3010. Ciències aplicades II                                             | q), r), s), t), u), v), w), x)                                            |
+| 3033. Formació en centres de treball (FCT)                              | Totes les competències transversals i tècniques en context real          |
+
+> Aquesta taula és un instrument fonamental per a la **coordinació entre docents**, la programació compartida de situacions d’aprenentatge i la detecció de possibles buits competencials en el desenvolupament del currículum.
+
+## 4.2. Utilització didàctica
+
+El claustre i l’equip docent poden utilitzar aquesta informació per:
+
+- Dissenyar activitats i projectes integrats amb una visió competencial
+- Assignar responsabilitats específiques de seguiment i avaluació per competència
+- Coordinar l’acció tutorial i les activitats d’orientació professional
+- Planificar de manera col·laborativa els **projectes intermodulars** i les **situacions d’aprenentatge**
+
+Amb tot això, el **PCCF esdevé una eina viva**, en constant revisió, que assegura la cohesió del treball educatiu i l’alineació de les actuacions docents amb els objectius del sistema de Formació Professional i les necessitats de l’entorn.
+
+## 4.3. Estructura modular i transició del currículum
+
+Actualment, el cicle **Tècnic Bàsic en Informàtica d’Oficina** es distribueix en els següents **mòduls i horaris**, segons el decret vigent a la Comunitat Valenciana:
+
+| **Curs** | **Codi**  | **Mòdul Professional**                                            | **Hores setmanals** | **Hores totals** |
+|----------|-----------|-------------------------------------------------------------------|---------------------|------------------|
+| **1r**   | 3029      | Muntatge i manteniment de sistemes i components informàtics      | 9                   | 299              |
+|          | 3031      | Ofimàtica i arxiu de documents                                     | 9                   | 299              |
+|          | 3161      | Comunicació i Ciències Socials I                                   | 4                   | 133              |
+|          | 3163      | Ciències aplicades I                                               | 4                   | 133              |
+|          | TU01CF    | Tutoria Primer                                                     | 2                   | 69               |
+|          | 3159p     | Itinerari personal per a l’ocupabilitat 1r                         | 2                   | 67               |
+|          |           | **Total 1r curs**                                                  | **30**              | **1.000**        |
+| **2n**   | 3016      | Instal·lació i manteniment de xarxes per a transmissió de dades   | 10                  | 332              |
+|          | 3030      | Operacions auxiliars per a la configuració i l’explotació         | 6                   | 200              |
+|          | 3159      | Itinerari personal per a l’ocupabilitat                            | 1                   | 34               |
+|          | 3162      | Comunicació i Ciències Socials II                                  | 5                   | 166              |
+|          | 3164      | Ciències aplicades II                                              | 5                   | 166              |
+|          | TU02CF    | Tutoria Segon                                                      | 1                   | 35               |
+|          | 3160972   | Projecte intermodular d’aprenentatge col·laboratiu                | 2                   | 67               |
+|          |           | **Total 2n curs**                                                  | **30**              | **1.000**        |
+|          |           | **Total Cicle**                                                    | **60**              | **2.000**        |
+
+Tanmateix, **a partir del curs 2024-2025**, el cicle passa a tindre la següent **nova estructura modular i horària**, segons la proposta d’implantació progressiva derivada del nou marc normatiu:
+
+| **Curs** | **Codi**   | **Mòdul Professional**                                          | **Hores setmanals** | **Hores totals** |
+|----------|------------|------------------------------------------------------------------|---------------------|------------------|
+| **1r**   | 3029     | Muntatge i manteniment de sistemes i components informàtics     | 9                   | 299              |
+|          | 3031     | Ofimàtica i arxiu de documents                                   | 9                   | 299              |
+|          | 3161     | Comunicació i Ciències Socials I                                 | 4                   | 133              |
+|          | 3163     | Ciències aplicades I                                             | 4                   | 133              |
+|          | TU01CF     | Tutoria Primer                                                   | 2                   | 69               |
+|          | 3159p    | Itinerari personal per a l’ocupabilitat 1r                       | 2                   | 67               |
+|          |            | **Total 1r curs**                                                | **30**              | **1.000**        |
+| **2n**   | 3016     | Instal·lació i manteniment de xarxes de comunicació             | 10                  | 332              |
+|          | 3030     | Configuració i explotació de sistemes informàtics               | 6                   | 200              |
+|          | 3159     | Itinerari personal per a l’ocupabilitat                          | 1                   | 34               |
+|          | 3162     | Comunicació i Ciències Socials II                                | 5                   | 166              |
+|          | 3164     | Ciències aplicades II                                            | 5                   | 166              |
+|          | TU02CF     | Tutoria Segon                                                    | 1                   | 35               |
+|          | 3160972  | Projecte intermodular d’aprenentatge col·laboratiu              | 2                   | 67               |
+|          |            | **Total 2n curs**                                                | **30**              | **1.000**        |
+|          |            | **Total Cicle**                                                  | **60**              | **2.000**        |
+
+Aquesta nova estructura reforça el **component competencial, transversal i integrat del currículum**, amb una clara aposta per la coordinació entre mòduls, la personalització de l’itinerari formatiu i el treball per projectes. L’equip docent haurà d’adaptar les seues programacions i estratègies metodològiques per tal de garantir l’aplicació efectiva d’aquest nou model.
+
+
+## 4.4. Comparativa entre l’estructura actual i la nova proposta curricular
+
+La següent taula resumeix de manera comparativa les diferències entre l’estructura actual i la nova proposta curricular per al cicle de **Tècnic Bàsic en Informàtica d’Oficina**:
+
+| **Aspecte**                            | **Estructura actual**                            | **Nova estructura (2024-2025)**                         |
+|----------------------------------------|--------------------------------------------------|---------------------------------------------------------|
+| Nombre total de mòduls                 | 12 mòduls                                        | 12 mòduls (reformulats i agrupats)                      |
+| Projecte intermodular                  | Apareix només a 2n curs com a mòdul específic    | Es manté i es reforça com a element vertebrador         |
+| Itinerari personal per a l’ocupabilitat| Present als dos cursos                           | Es manté, però s’integra més activament en el PCCF      |
+| Tutoria                                | Dos mòduls (1r i 2n)                             | Es manté igual                                          |
+| Comunicació i Ciències Socials         | Dues fases (I i II)                              | Es manté, amb ajustos metodològics                     |
+| Ciències aplicades                     | Dues fases (I i II)                              | Es manté, amb orientació cap a contextos professionals |
+| Denominació de mòduls tècnics          | Formulació genèrica                              | Nom més precís i funcional: configuració, xarxes...     |
+| Distribució horària                    | 30 h setmanals / 2.000 h totals                  | Sense canvis (mateix volum global)                      |
+| Orientació competencial                | Implícita i a través d’objectius                 | Explícita, integrada i centrada en resultats d’aprenentatge (RA) |
+| Enfocament metodològic                 | Tradicional amb algunes iniciatives actives      | Actiu, per projectes, personalitzat i transversal       |
+
+## 4.5. Consideracions per a la implementació
+
+La nova proposta curricular comporta un **canvi de paradigma** en la manera com es planifica, s’imparteix i s’avalua el currículum de la Formació Professional Bàsica. Les principals implicacions per al desenvolupament del **PCCF** són:
+
+- Necessitat d’una **coordinació didàctica més estreta** entre docents dels diferents mòduls.
+- Incorporació de **metodologies actives** i de situacions d’aprenentatge contextualitzades.
+- Major **centralitat del projecte intermodular**, que esdevé eix transversal del procés formatiu.
+- Integració efectiva de les **competències per a l’ocupabilitat**, amb accions concretes des de cada mòdul.
+- Adaptació progressiva de les programacions a un model **orientat a l’assoliment de RA** i no només de continguts.
+
+Aquest context reforça la funció estratègica del **PCCF com a instrument de planificació col·lectiva**, alineat amb els objectius del centre, el PEC i les exigències de la nova legislació educativa.

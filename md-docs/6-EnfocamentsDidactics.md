@@ -1,19 +1,31 @@
-
-
 # 6. Enfocaments didàctics i metodològics
 
-El cicle de Tècnic Superior en Desenvolupament d'Aplicacions Multiplataforma al nostre centre aposta un enfocament didàctic basat en metodologies actives i orientades al treball pràctic en l'empresa. Des del curs 2024-25, s'ha introduit el concepte d'Aula-Empresa, una adaptació de les propostes de les Aules Transformadores a les aules comunes de formació professional. Amb això s'intenta que el treball a l'aula siga el més proper al treball que tindran en una empresa real, i millorar els llaços amb les empreses i organitzacions en projectes reals.
+El cicle de Formació Professional Bàsica en Informàtica d’Oficina a l’IES Jaume II el Just es fonamenta en un **enfocament actiu, contextualitzat i professionalitzador**, alineat amb els principis recollits a l’article 13 del **Reial decret 659/2023**, que promou la incorporació de **metodologies actives** en la docència dels cicles formatius.
 
-Per tot això, l'equip educatiu ha aprovat la implementació de les següents estratègies metodològiques per al cicle:
+Aquest enfocament no es limita a una declaració d’intencions, sinó que es **materialitza en un conjunt de principis metodològics consensuats** per l’equip docent, amb caràcter vinculant per a totes les programacions del cicle. El consens metodològic ha estat treballat en les reunions setmanals del claustre del cicle i suposa un compromís explícit amb un model pedagògic transformador.
 
-* **Aprenentatge basat en Projectes (ABP), en el segon curs**, mitjançant el desenvolupament de projectes reals complets, proposats, sempre que siga possible, em col·laboració amb empreses i organitzacions.
-* **Aprenentatge basat en Reptes (ABR) en primer curs**, mitjançant la resolució de problemes o situacions  concretes que sorgeixen en el flux de treball a una empresa TIC (desenvolupament web, comunicació amb serveis, virtualització de serveis, etc.)
-* **Aprenentatge-Servei (APS)** integrat en els projectes, de manera que aquests tinguen un impacte positiu en la comunitat i centrats sobretot en aspectes com la sostenibilitat i la digitalització.
-* **Aprenentatge col·laboratiu**, en els propis projectes i reptes, que s'abordaran mitjançant el treball en equip i amb eines de gestió de projectes.
+## 6.1. Principis metodològics acordats
 
-## Adaptació a la modalitat semipresencial
+L’equip docent acorda aplicar de forma transversal les següents estratègies metodològiques:
 
-Els ensenyaments en modalitat semipresencial tenen un perfil d'alumnat molt divers, on gran part ja està dins el mercat laboral, i no solen matricular-se de tots els mòduls formatius. Aquest fet, dificulta l'aplicació de metodologies des d'un punt de vista intermodular. No obstant això, dins de cada mòduls s'intentaran aplicar aquestes metodologies, potenciant el treball entre diversos mòduls sempre que siga possible.
+- **Aprenentatge basat en projectes (ABP)**: l’alumnat desenvolupa **projectes interdisciplinars** reals o simulats, com ara:
+    - *Projecte de reciclatge de plàstics i impressió 3D* (Ciències Aplicades II, IMX i Comunicació i Societat II)
+    - *Projecte “Aprenem de la Pluja”*, vinculat a la DANA de 2024, orientat a la restauració d’equipament TIC i dades.
+    - *Participació en la Fira Experimenta*, amb projectes de caràcter científic-tecnològic de divulgació.
+- **Aprenentatge-Servei (ApS)**: com a eix transversal, alguns projectes integren una dimensió social i de servei comunitari, com el **manteniment i instal·lació de xarxes** al propi centre per part de l’alumnat, amb finalitats reals i aplicació immediata.
+- **Aprenentatge col·laboratiu**: foment del treball en equip mitjançant activitats grupals estructurades, ús d’eines de gestió col·laborativa i **responsabilitat compartida** en tasques i rols.
+- **Contextualització professional i realisme pedagògic**: les situacions d’aprenentatge s’inspiren en l’àmbit laboral real i aprofiten el context del centre i l’entorn socioeconòmic.
+- **Personalització de l’aprenentatge i enfocament inclusiu**, adaptant les activitats als ritmes, necessitats i potencialitats de l’alumnat.
+- **Ús pedagògic de les TIC**: integració d’eines digitals tant per a la producció com per a la comunicació i l’organització del treball.
+- **Avaluació contínua i formativa**, basada en evidències d’aprenentatge, rúbriques competencials, observació directa, autoavaluacions i portafolis.
+
+## 6.2. Coherència, seguiment i compromís docent
+
+Aquest marc metodològic consensuat és de **compliment obligat per a tot el professorat del cicle**, i s’aplicarà tant a nivell de mòdul com en el desenvolupament del **Projecte Intermodular d’Aprenentatge Col·laboratiu**.
+
+Les **reunions setmanals de l’equip docent** tindran com a funció, entre altres, fer **seguiment del desplegament metodològic**, ajustar estratègies si cal i garantir que es manté la coherència entre els mòduls i els objectius del PCCF.
+
+Aquest enfocament metodològic pretén oferir una resposta eficaç als desafiaments del món laboral i educatiu actual, **convertint l’alumnat en protagonista actiu del seu aprenentatge** i facilitant la seua integració futura en entorns professionals reals.
 
 
 <!--
