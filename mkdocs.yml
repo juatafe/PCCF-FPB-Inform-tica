@@ -1,6 +1,11 @@
-site_name: Plantilles ABP - IES Jaume el Just
+site_name: PCCF FPB Informàtica
+site_description: Plantilla per a la creació de continguts del cicle formatiu de
+  formació professional bàsica d'informàtica del IES Jaume el Just
 site_author: JB Talens
-site_url: https://juatafe.github.io/PlantillesABP/
+site_url: https://juatafe.github.io/PCCF-FPB-Inform-tica/
+use_directory_urls: false
+docs_dir: 'md-docs'
+site_dir: 'docs'
 
 theme:
   name: material
@@ -49,12 +54,26 @@ copyright: |
   </div>
 
 nav:
-  - Introducció: 1.aspectes_generals.md
-  - Metodologia i recursos: 2.organitzadios_previs_metodologia_recursos.md
-  - Seqüenciació: 3.sequenciacio.md
-  - Sprint 1:
-      - Inici: sprint_1/index.md
-      - Activitat: sprint_1/ad.md
+  - Introducció: 1-Introduccio.md
+  - Marc normatiu: 2-MarcNormatiu.md
+  - Adequació de les competències: 3-Adequacio.md
+  - Contribucio a les competències: 4-Contribucio-Compet.md
+  - Contribucio a la Ocupabilitat: 5-Contribucio-Ocupa.md
+  - Enfocaments metodològics: 6-EnfocamentsDidactics.md
+  - Organització dels mòduls: 7-OrganitzacioModuls.md
+  - Criteris generals: 8-CriterisGenerals.md
+  - Bases de dades d'empreses: 9-BasesDades.md
+  - Criteris plans formatius: 10-CriterisPlans.md
+  - Criteris Digitalització i Sostenibilitat: 11-CriterisDigiSos.md
+  - Pla Tutorial: 12-PlaTutorial.md
+  - Correcció dels plans i els programes: 13-CorreccioPlans.md
+  - Orientció per a l'ús dels espais: 14-OrientacioUsEspais.md
+  - Criteris d'avaluació: 15-CriterisAva.md
+  - Mesures de resposta educativa a la inclusió: 16-MRI.md
+  - Criteris per a la planificació d'activitats: 17-CriterisActivitats.md
+  - Criteris per a la planificació de projectes: 18-CriterisModulP.md
+  - Altres aspectes: 19-Altres.md
+  - Programacions d'aula: 20-PA.md
 
 markdown_extensions:
   - admonition
