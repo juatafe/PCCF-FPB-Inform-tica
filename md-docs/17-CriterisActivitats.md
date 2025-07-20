@@ -1,6 +1,62 @@
+# 17. Criteris per a la planificació d'activitats complementàries i extraescolars
 
+Les **activitats complementàries i extraescolars** són eines pedagògiques que **enriqueixen i consoliden** el procés d’ensenyament-aprenentatge. Permeten a l’alumnat aplicar els coneixements adquirits en entorns reals, millorar la motivació i desenvolupar competències transversals.
 
-# 17. Criteris per a la planificació d'activitats complementàries i extraescolars 
+Aquestes activitats es programaran seguint els criteris acordats per l’equip docent i alineats amb els **objectius del currículum del cicle FPB d’Informàtica d’Oficina**.
+
+## Criteris generals per a la planificació
+
+1. **Pertinència curricular**: han de reforçar els continguts i sabers treballats als mòduls.
+2. **Caràcter inclusiu**: totes les activitats han de ser accessibles i promoure la participació de tot l’alumnat.
+3. **Coherència amb la programació d'aula**: han d’estar relacionades amb els objectius i competències específiques dels mòduls.
+4. **Viabilitat organitzativa**: es valorarà la logística, horaris, pressupost i recursos disponibles.
+5. **Informació prèvia a l’alumnat i famílies**: es facilitarà una comunicació clara sobre objectius, continguts, dates i requisits de participació.
+
+## Tipus d'activitats
+
+### Activitats complementàries
+Realitzades dins de l’horari lectiu, amb caràcter pedagògic i estretament vinculades al currículum.
+
+- **Tallers tecnològics** (automatització, IA, impressió 3D…)
+- **Jornada de contacte amb empreses del sector**
+- **Seminaris d’especialització** amb professionals TIC
+- **Visita a la Fossa 112 de Paterna** (memòria històrica i tecnologia aplicada)
+- **Eixides de curta durada a l’entorn de la ciutat i muntanya** (orientació, treball en equip, medi ambient)
+- **Hackatons i jams tecnològiques** dins del centre
+
+### Activitats extraescolars
+Fora de l’horari lectiu, obertes a la participació voluntària i orientades a l’enriquiment acadèmic i personal.
+
+- **Visita al Museu del videojoc d’Ibi**
+- **Visites a universitats o centres tecnològics**
+- **Competició Programame**
+- **Skills Comunitat Valenciana**
+- Participació en fires i concursos com:
+  - **Experimenta** (UV)
+  - **La Navaja Negra** (ciberseguretat)
+  - **Buca IMSEF** (projectes internacionals)
+  - **ISIF** (fira internacional d’innovació educativa)
+
+## Coordinació i seguiment
+
+L’equip docent farà una planificació anual d’activitats, tenint en compte:
+
+- Els **projectes interdisciplinars** en curs.
+- Les **necessitats formatives i motivacionals** de l’alumnat.
+- La valoració d’impacte de cursos anteriors.
+
+Així mateix, es garantirà l’avaluació de cada activitat per mitjà de **rúbriques, qüestionaris de satisfacció o evidències documentals**, integrant-les com a part del desenvolupament competencial del cicle.
+
+---
+
+## 📎 Annexos de suport
+
+Els següents documents faciliten la planificació i valoració de les activitats complementàries i extraescolars:
+
+- [🗓️ Fitxa de planificació d’activitat](annexos/Annex-Planificacio-Activitat.md)
+- [📊 Fitxa de valoració d’activitat](annexos/Annex-Valoracio-Activitat.md)
+
+Es recomana utilitzar aquestes plantilles per a totes les activitats organitzades dins del cicle FPB.
 
 <!-- Hem d'entendre les activitats complementàries i extraescolars com a elements per a enriquir  i  consolidar el procés d'ensenyança-aprenentatge,  complementant  el  treball 
 desenrotllat  a  l'aula.  Estes  activitats  han  d'estar  alineades  amb  els  objectius  i  les competències del currículum del cicle formatiu i planificar-se amb criteris clars i consensuats per l'equip educatiu. 
@@ -19,24 +75,3 @@ Les activitats que se duran a terme, al llarg del curs, son:
 - Skills a València
 
 -->
-
-Les **activitats complementàries i extraescolars** són elements que enriquiran el procés d’ensenyament-aprenentatge, proporcionant als estudiants oportunitats per aplicar els coneixements adquirits a l’aula en contextos reals. Aquestes activitats es planificaran de manera que estiguen alineades amb els **objectius i les competències** del **currículum del cicle formatiu** i seran consensuades per tot l’equip educatiu, tenint en compte els següents criteris:
-
-1. **Pertinència curricular**: Les activitats seran seleccionades per complementar i consolidar els coneixements adquirits al llarg del cicle.
-2. **Caràcter inclusiu**: S’assegurarà que totes les activitats siguin accessibles i inclusives per a tots els alumnes, fomentant la seva participació activa.
-3. **Coherència amb la programació didàctica**: Cada activitat estarà vinculada a les competències i objectius del cicle, potenciant l'aprenentatge pràctic.
-4. **Viabilitat organitzativa**: Es garantirà que les activitats siguen possibles dins de les condicions logístiques i temporals del centre.
-5. **Informació prèvia**: S’informarà de manera clara i detallada a les famílies i a l’alumnat sobre els objectius, continguts i organització de les activitats, afavorint una participació conscient i motivada.
-
-### **Activitats proposades:**
-
-* Visita al Museu del videojoc d'Ibi
-* Tallers tecnològics
-* Jornada de contacte amb empreses del sector
-* Seminaris d'especialització
-* Visita a universitats
-* Competició **Programame**
-* **Skills** a València
-* Participació en **Hackatons** i **jams**
-
-Aquestes activitats contribuiran a **desenvolupar competències professionals** i **personals**, tot afavorint la **motivació** i **inserció laboral** dels estudiants.

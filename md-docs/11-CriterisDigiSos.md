@@ -31,7 +31,7 @@ Ambdós mòduls es desplegaran en coordinació amb la resta de mòduls del cicle
 - **Avaluació integrada** a través de projectes i activitats col·laboratives.
 - **Enfocament competencial i vivencial**, orientat a la inserció laboral i la ciutadania responsable.
 
-L’equip docent establirà anualment, dins del **PAC**, quines activitats o projectes oferiran millor encaix per integrar **digitalització i sostenibilitat** dins del cicle, i quins criteris s’utilitzaran per a la seua avaluació.
+L’equip docent establirà anualment, dins de la **PGA**, quines activitats o projectes oferiran millor encaix per integrar **digitalització i sostenibilitat** dins del cicle, i quins criteris s’utilitzaran per a la seua avaluació.
 
 <!-- 
 El  sector  productiu  i  el  perfil  professional  determinen  necessitats  diferenciades  en relació amb els mòduls impartits.  

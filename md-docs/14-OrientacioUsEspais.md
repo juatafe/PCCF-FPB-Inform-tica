@@ -1,44 +1,54 @@
 
-# 14. Orientacions per a l'ús d'espais, mitjans i equipaments disponibles 
+# 14. Orientacions per a l'ús d'espais, mitjans i equipaments disponibles
 
+L’organització dels espais i dels recursos materials en el cicle de **Formació Professional Bàsica en Informàtica d’Oficina** té com a objectiu **facilitar un aprenentatge actiu, segur i contextualitzat**, d’acord amb els requisits establerts pel *Reial decret 405/2023* i alineat amb els principis d’innovació metodològica i pedagògica.
 
-<!-- Del que ja teniem a la plantilla-->
+## 1. Condicions dels espais docents
 
-**Consideracions respecte als espais**
+Segons la normativa:
 
-D'acord amb el *Reial Decret del Títol 405 / 2023*, la docència en un cicle de grau superior requereix:
+- Cal disposar d’un **espai formatiu de mínim 60 m²** per grup.
+- El grau d’utilització ha de ser **igual o superior al 50%** del temps disponible.
+- Es garantiran les següents **condicions ambientals i de seguretat**:
+  - **Humitat**: controlada per evitar condensació i electricitat estàtica.
+  - **Il·luminació**: lateral i difusa, per evitar reflexos en pantalles.
+  - **Cablejat**: centralitzat, segur i fora de zones de pas.
+  - **Mobiliari ergonòmic**: per protegir la salut postural de l’alumnat.
 
-* Un espai formatiu amb una superfície mínima de 60 m2
-* Un grau d'utilització no inferior al 50% del temps disponible per cada grup d'alumnes del cicle. 
+## 2. Transformació metodològica i Aula-Empresa
 
-Respecte a la seguretat física i condicions ambientals:
+El cicle es desplega seguint un model d’**aula-empresa**, on l’aula simula un **entorn productiu col·laboratiu**. Aquesta transformació implica:
 
-- Humitat
-   - massa humitat provoca condensació 
-   - massa poca humitat produeix electricitat estàtica 
+- Organització de l’espai en **illes de treball col·laboratiu**.
+- Creació d’una **zona de reunions** per a planificació i feedback.
+- Utilització de **mobiliari flexible** (pissarres mòbils, pantalles compartides).
+- Espais diferenciats per a **presentació de projectes** o defensa d’evidències.
 
-- Llum: ha d'entrar lateralment i no incidir directament sobre la pantalla de l'ordinador per que produeix reflexes i és perjudicial per la vista, etc. 
+Aquest entorn afavoreix metodologies com l’**Aprenentatge Basat en Projectes (ABP)**, **reptes**, o **simulacions d’entorns laborals**, fonamentals per a l’adquisició de les competències del cicle.
 
-- Cablejat de la xarxa i cablejat elèctric: si és possible ha d'estar centralitzat i fora del pas habitual dels alumnes però accessible. 
+## 3. Ús de l’Aula Emprén
 
-- Material ergonòmic per salvaguardar la salut.
+El centre disposa d’una **Aula Emprén**, vinculada al Programa Emprén. Aquesta aula permet desenvolupar:
 
-**L'Aula-Empresa**
+- **Tallers de creativitat i ideació de projectes**
+- **Hackatons i concursos** interdisciplinars
+- **Xarrades amb empreses i mentors**
+- **Simulació de presentacions professionals** i esdeveniments
 
-El concepte d'aula-empresa vol posar de manifest la necessitat de treballar a les nostres aules de la manera més semblant a com es faria a una empresa tecnològica. Això implica per una banda un canvi metodològic, basat en l'aprenentatge basat en Projectes, i per altra, una transformació dels espais.
+S’utilitzarà especialment per a l’impuls del projecte **JustHub Garage** i per activitats dels mòduls de *Tutoria*, *Comunicació i Societat* i *Sostenibilitat*.
 
-Agafant com a referència les Aules Transformadores, es planteja una transformació dels espais pe fer-los més col·laboratius, crítics, i sobretot contextualitzats, relacionant situacions i projectes reals i rellevants.
+## 4. Coordinació i ús compartit dels espais
 
-Per a això, l'Aula-Empresa compta amb:
+Per optimitzar els espais del centre i garantir-ne un ús eficient:
 
-* Organització de l'aula en illes de treball per desenvolupar projectes en grups de 3/4 persones.
-* Reserva d'un espai central i diferenciat per a la realització de reunions de planificació i avaluació.
-* Ús de mobiliari educatiu mòbil, com pissarres menudes i pantalles per al treball en equip.
-* Reserva d'espais per a la presentació de projectes.
+- Es coordinarà la utilització de les aules especialitzades (*tècniques, informàtiques, Emprén*) entre els diferents mòduls i grups.
+- Es podran establir **protocols d’ús i reserva**.
+- Es prioritzaran aquelles activitats relacionades amb **projectes intermodulars, digitalització i sostenibilitat**.
 
-**Ús de l'Aula Emprén**
+---
 
-El centre disposa també d'una Aula Emprén, on es poden desenvolupar activitats que requerisquen un major dinamisme, com tallers, hackatons, xerrades o ponències externes.
+**Conclusió**:  
+L'ús intencionat dels espais i equipaments disponibles permetrà **contextualitzar l’aprenentatge**, millorar la **motivació de l’alumnat**, i connectar-lo amb els **entorns reals de treball**, facilitant així l’assoliment dels resultats d’aprenentatge establerts.
 
 <!-- 
 Per a poder optimitzar els espais del centre, serà important incloure criteris clars per a coordinar l'ús compartit dels recursos entre els diferents mòduls i grups. Els espais com ara  tallers,  laboratoris,  aules  tècniques  o  àrees  especialitzades  han  d'estar adequadament organitzats i optimitzats per a dur a terme d'activitats  que  permeten aconseguir els RA. Es poden establir prioritats o protocols d'ús d'espais com les aules ATECA, EMPRÉN o altres similars. 

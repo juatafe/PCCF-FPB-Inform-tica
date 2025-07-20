@@ -1,6 +1,66 @@
-
 # 16. Mesures de resposta educativa a la inclusió
 
+L'atenció a les diferències individuals és un **precepte constitucional** (Constitució Espanyola, Art. 27.1) i un pilar de l'educació inclusiva. En l'àmbit de la Formació Professional Bàsica (FPB), aquest compromís es concreta mitjançant les **Mesures de Resposta Educativa per a la Inclusió (MREI)**, tal com estableixen la **LO 3/2022** i el **RD 659/2023**.
+
+Aquestes mesures tenen com a finalitat **eliminar les barreres** d'accés, participació i aprenentatge, i assegurar que tot l’alumnat tinga oportunitats reals per assolir les competències del cicle.
+
+## Principis normatius
+
+D’acord amb el RD 659/2023, article 15, les mesures s’han d’ajustar a:
+
+- **Normalització i inclusió educativa**
+- **Accessibilitat universal i disseny per a tots**
+- **Adaptació de condicions d’aprenentatge i avaluació**
+
+## Tipologia de mesures (MREI)
+
+### 1. Adaptacions metodològiques
+
+- Ús de **metodologies actives i flexibles** (ABP, reptes, tallers col·laboratius).
+- Disseny d’**activitats graduades** que permeten diferents nivells d'assoliment.
+- Atenció a la diversitat d’estils d’aprenentatge (visual, kinestèsic, etc.).
+
+### 2. Suport personalitzat i tutorització
+
+- **Tutories individualitzades** per establir plans de seguiment o PPA.
+- Dinàmiques de suport emocional, regulació i motivació.
+- Observació sistemàtica per identificar necessitats emergents.
+
+### 3. Adaptacions d’organització i d’espais
+
+- Agrupaments flexibles i suport dins l’aula ordinària.
+- Ajustos en la distribució de temps, activitats i materials.
+- Coordinació amb el departament d’orientació i serveis externs.
+
+### 4. Accessibilitat i recursos adaptats
+
+- Materials accessibles (ampliació de tipografia, contrast, lectura fàcil...).
+- Ús de **tecnologies assistives** (lector de pantalla, subtítols, teclats especials...).
+- Eliminació de barreres físiques, sensorials i digitals.
+
+## Avaluació inclusiva
+
+- Avaluació **personalitzada i formativa**, orientada al progrés.
+- Ús d’**instruments diversos i adaptats** (rúbriques, observació, exposicions, autoavaluació).
+- Flexibilitat en les condicions (temps extra, format de proves, presentacions orals...).
+
+## Revisió i seguiment
+
+- Les MREI seran acordades i revisades **col·lectivament** per l’equip docent en coordinació amb el departament d’orientació.
+- Les mesures aplicades es revisaran **trimestralment**, i s’ajustaran segons l’evolució de l’alumnat i les necessitats detectades.
+
+## Referències normatives i recursos
+
+- LO 3/2022, d'ordenació i integració de la Formació Professional
+- RD 659/2023, d’ordenació dels cicles de grau bàsic
+- GVA: [Mesures d’inclusió educativa](https://ceice.gva.es/va/web/inclusioeducativa)
+- GVA: [Identificació de barreres](https://ceice.gva.es/es/web/inclusioeducativa/identificacio-de-barreres)
+
+## Comentari final
+
+En el marc del Projecte Curricular de Cicle Formatiu, les MREI s’integren com a part fonamental del model pedagògic del centre. La seua aplicació en FPB esdevé imprescindible per garantir l’**equitat real** i la **justícia educativa**, superant una visió només compensatòria.
+
+> 💡 Les MREI no són excepcions, sinó respostes sistemàtiques i estructurades que reconeixen i abracen la diversitat.
 <!--
 L'atenció a les diferències individuals de les persones és un precepte constitucional que ha de tindre reflex en els centres educatius. 
 
@@ -15,37 +75,3 @@ RD 659/23. Article 15. Atenció a les diferències individuals
 1. L'atenció diferenciada que requerisquen determinades persones es regix per: a) Els principis de normalització, inclusió i accessibilitat. b) L'adaptació de condicions facilitadores de l'adquisició dels aprenentatges i de les avaluacions a les necessitats de suport formatiu. 
 
 -->
-
-L'atenció a les diferències individuals de les persones és un **precepte constitucional** establert en la **Constitució Espanyola** (Article 27.1), que **garanteix el dret a l'educació** per a tots els ciutadans, sense discriminació. Aquest dret ha de reflectir-se en la **formació professional específica**, tenint en compte les necessitats i característiques individuals de cada alumne.
-
-Segons el **RD 659/23**, en l'**Article 15** sobre "Atenció a les diferències individuals", es plantegen els següents principis fonamentals:
-
-1. **Principis de normalització, inclusió i accessibilitat**: Tots els estudiants han de poder accedir als continguts del cicle i superar els resultats d’aprenentatge (RA) establerts, tot i les seves diferències individuals.
-
-2. **Adaptació de condicions facilitadores**: Les condicions del procés d’aprenentatge i de l’avaluació s’adaptaran per **facilitar l’adquisició dels aprenentatges** i garantir la **realització d’avaluacions** que responguin a les necessitats individuals de l’alumnat amb necessitats específiques de suport educatiu.
-
-### **Adaptacions metodològiques i organitzatives**
-
-1. **Adaptacions metodològiques**:
-
-   * Tot i que no es poden fer adaptacions en els **objectius**, **continguts** i **criteris d’avaluació** del cicle formatiu, sí que es podran implementar **adaptacions metodològiques** que permeten que l'alumnat puga assolir els **resultats d’aprenentatge (RA)** establerts.
-   * Es proposaran **activitats d’aprofundiment o ampliació** per als alumnes que progressen més ràpidament en el seu aprenentatge, de manera que puguen aprofundir en els continguts de la matèria amb un **major rigor tècnic**. Aquestes activitats permetran l’aplicació de coneixements en nous contextos i la **construcció de coneixements avançats**.
-   * Per als alumnes amb **dificultats d’aprenentatge**, es dissenyaran **activitats de reforç i recuperació**, que estiguin enfocades en la consolidació de continguts bàsics i la **superació de dificultats** en el procés d’adquisició de competències.
-
-2. **Adaptacions organitzatives**:
-
-   * Les **organitzacions d’aula** es poden ajustar per garantir un **suport individualitzat** en grups de treball o mitjançant tutories personalitzades. Això permetrà que cada alumne tinga l'atenció necessària segons les seves necessitats d’aprenentatge.
-   * Per altra banda, el **treball en equip** promou la col·laboració entre l'alumnat que més prompte assoleix competències amb aquells a qui els costa més. D'aquesta manera, l'alumnat més avançat reforça els seus coneixements ajudant els companys més endarrerits.
-
-3. **Suport a la diversitat d’estils d’aprenentatge**:
-
-   * S’utilitzaran **estratègies d’aprenentatge col·laboratiu** per afavorir que els alumnes treballin en equips diversos i es beneficien de la **experiència d’altres**. Això permetrà desenvolupar habilitats socials i professionals i potenciar els **diferents estils d’aprenentatge** (visual, auditiva, kinestèsica, etc.).
-
-4. **Accessibilitat dels materials i recursos didàctics**:
-
-   * Es garantirà que els **materials i recursos didàctics** siguin accessibles per a tot l’alumnat, incloent **materials adaptats** per a persones amb discapacitat auditiva, visual o d’altres necessitats específiques. A més, s’utilitzaran **tecnologies assistives** i recursos digitals que afavorisquen l'**accessibilitat a l'aprenentatge** de manera inclusiva.
-
-### **Avaluació inclusiva**
-
-* L’avaluació **serà personalitzada**, amb instruments que permeten identificar els **progrés individuals** de l’alumnat, respectant els **seus ritmes d’aprenentatge**. S’analitzaran les dificultats específiques que es puguen presentar en cada cas per adaptar els procediments d’avaluació a les necessitats concretes de l’alumne.
-* Es farà ús d’eines de **retroalimentació contínua**, per assegurar-se que l’alumnat té accés a la **informació necessària per millorar el seu aprenentatge**.
