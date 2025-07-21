@@ -1,4 +1,4 @@
-# 16. Mesures de resposta educativa a la inclusió
+# 16. Atenció a la diversitat. Mesures de resposta educativa a la inclusió
 
 L'atenció a les diferències individuals és un **precepte constitucional** (Constitució Espanyola, Art. 27.1) i un pilar de l'educació inclusiva. En l'àmbit de la Formació Professional Bàsica (FPB), aquest compromís es concreta mitjançant les **Mesures de Resposta Educativa per a la Inclusió (MREI)**, tal com estableixen la **LO 3/2022** i el **RD 659/2023**.
 

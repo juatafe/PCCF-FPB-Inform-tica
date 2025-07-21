@@ -73,7 +73,159 @@ nav:
   - 17-CriterisActivitats.md
   - 18-CriterisModulP.md
   - 19-Altres.md
-  - 20-PA.md
+  - 20-Les programacions d'aula dels mòduls i/o els projectes :
+    - 20-PA.md
+    - Projecte Aprenem de la Pluja:
+        - pluja/index.md
+        - pluja/planificacio.md
+        - pluja/participacio.md
+        - pluja/enllac.md
+    - Programacions d’aula 1r curs:
+        - Muntatge i manteniment de sistemes:
+            - programacions_aula/3029/index.md
+            - Situacions d'aprenentatge:
+                - programacions_aula/3029/Situacions.md
+                - programacions_aula/3029/SA1.md
+            - Criteris d’avaluació: programacions_aula/3029/Criteris.md
+            - Organització dels espais: programacions_aula/3029/Organitzacio.md
+            - Distribució del temps: programacions_aula/3029/Temps.md
+            - Selecció de recursos: programacions_aula/3029/Recursos.md
+            - Atenció a la diversitat: programacions_aula/3029/Diversitat.md
+            - Instruments d’avaluació: programacions_aula/3029/Instruments.md
+        - Ofimàtica i arxiu de documents:
+            - programacions_aula/3031/index.md
+            - Situacions d'aprenentatge:
+                - programacions_aula/3031/Situacions.md
+                - programacions_aula/3031/SA1.md
+            - Criteris d’avaluació: programacions_aula/3031/Criteris.md
+            - Organització dels espais: programacions_aula/3031/Organitzacio.md
+            - Distribució del temps: programacions_aula/3031/Temps.md
+            - Selecció de recursos: programacions_aula/3031/Recursos.md
+            - Atenció a la diversitat: programacions_aula/3031/Diversitat.md
+            - Instruments d’avaluació: programacions_aula/3031/Instruments.md
+        - Comunicació i Ciències Socials I:
+            - programacions_aula/3161/index.md
+            - Situacions d'aprenentatge:
+                - programacions_aula/3161/Situacions.md
+                - programacions_aula/3161/SA1.md
+            - Criteris d’avaluació: programacions_aula/3161/Criteris.md
+            - Organització dels espais: programacions_aula/3161/Organitzacio.md
+            - Distribució del temps: programacions_aula/3161/Temps.md
+            - Selecció de recursos: programacions_aula/3161/Recursos.md
+            - Atenció a la diversitat: programacions_aula/3161/Diversitat.md
+            - Instruments d’avaluació: programacions_aula/3161/Instruments.md
+        - Ciències Aplicades I:
+            - programacions_aula/3163/index.md
+            - Situacions d'aprenentatge:
+                - programacions_aula/3163/Situacions.md
+                - programacions_aula/3163/SA1.md
+            - Criteris d’avaluació: programacions_aula/3163/Criteris.md
+            - Organització dels espais: programacions_aula/3163/Organitzacio.md
+            - Distribució del temps: programacions_aula/3163/Temps.md
+            - Selecció de recursos: programacions_aula/3163/Recursos.md
+            - Atenció a la diversitat: programacions_aula/3163/Diversitat.md
+            - Instruments d’avaluació: programacions_aula/3163/Instruments.md
+        - Tutoria Primer:
+            - programacions_aula/TU01CF/index.md
+            - Situacions d'aprenentatge:
+                - programacions_aula/TU01CF/Situacions.md
+                - programacions_aula/TU01CF/SA1.md
+            - Criteris d’avaluació: programacions_aula/TU01CF/Criteris.md
+            - Organització dels espais: programacions_aula/TU01CF/Organitzacio.md
+            - Distribució del temps: programacions_aula/TU01CF/Temps.md
+            - Selecció de recursos: programacions_aula/TU01CF/Recursos.md
+            - Atenció a la diversitat: programacions_aula/TU01CF/Diversitat.md
+            - Instruments d’avaluació: programacions_aula/TU01CF/Instruments.md
+        - Itinerari personal per a l'ocupabilitat 1r:
+            - programacions_aula/3159p/index.md
+            - Situacions d'aprenentatge:
+                - programacions_aula/3159p/Situacions.md
+                - programacions_aula/3159p/SA1.md
+            - Criteris d’avaluació: programacions_aula/3159p/Criteris.md
+            - Organització dels espais: programacions_aula/3159p/Organitzacio.md
+            - Distribució del temps: programacions_aula/3159p/Temps.md
+            - Selecció de recursos: programacions_aula/3159p/Recursos.md
+            - Atenció a la diversitat: programacions_aula/3159p/Diversitat.md
+            - Instruments d’avaluació: programacions_aula/3159p/Instruments.md
+    - Programacions d’aula 2n curs:
+        - Instal·lació i manteniment de xarxes:
+            - programacions_aula/3016/index.md
+            - Situacions d'aprenentatge:
+                - programacions_aula/3016/Situacions.md
+                - programacions_aula/3016/SA1.md
+            - Criteris d’avaluació: programacions_aula/3016/Criteris.md
+            - Organització dels espais: programacions_aula/3016/Organitzacio.md
+            - Distribució del temps: programacions_aula/3016/Temps.md
+            - Selecció de recursos: programacions_aula/3016/Recursos.md
+            - Atenció a la diversitat: programacions_aula/3016/Diversitat.md
+            - Instruments d’avaluació: programacions_aula/3016/Instruments.md
+        - Operacions auxiliars per a la configuració:
+            - programacions_aula/3030/index.md
+            - Situacions d'aprenentatge:
+                - programacions_aula/3030/Situacions.md
+                - programacions_aula/3030/SA1.md
+            - Criteris d’avaluació: programacions_aula/3030/Criteris.md
+            - Organització dels espais: programacions_aula/3030/Organitzacio.md
+            - Distribució del temps: programacions_aula/3030/Temps.md
+            - Selecció de recursos: programacions_aula/3030/Recursos.md
+            - Atenció a la diversitat: programacions_aula/3030/Diversitat.md
+            - Instruments d’avaluació: programacions_aula/3030/Instruments.md
+        - Itinerari personal per a l'ocupabilitat 2n:
+            - programacions_aula/3159/index.md
+            - Situacions d'aprenentatge:
+                - programacions_aula/3159/Situacions.md
+                - programacions_aula/3159/SA1.md
+            - Criteris d’avaluació: programacions_aula/3159/Criteris.md
+            - Organització dels espais: programacions_aula/3159/Organitzacio.md
+            - Distribució del temps: programacions_aula/3159/Temps.md
+            - Selecció de recursos: programacions_aula/3159/Recursos.md
+            - Atenció a la diversitat: programacions_aula/3159/Diversitat.md
+            - Instruments d’avaluació: programacions_aula/3159/Instruments.md
+        - Comunicació i Ciències Socials II:
+            - programacions_aula/3162/index.md
+            - Situacions d'aprenentatge:
+                - programacions_aula/3162/Situacions.md
+                - programacions_aula/3162/SA1.md
+            - Criteris d’avaluació: programacions_aula/3162/Criteris.md
+            - Organització dels espais: programacions_aula/3162/Organitzacio.md
+            - Distribució del temps: programacions_aula/3162/Temps.md
+            - Selecció de recursos: programacions_aula/3162/Recursos.md
+            - Atenció a la diversitat: programacions_aula/3162/Diversitat.md
+            - Instruments d’avaluació: programacions_aula/3162/Instruments.md
+        - Ciències Aplicades II:
+            - programacions_aula/3164/index.md
+            - Situacions d'aprenentatge:
+                - programacions_aula/3164/Situacions.md
+                - programacions_aula/3164/SA1.md
+            - Criteris d’avaluació: programacions_aula/3164/Criteris.md
+            - Organització dels espais: programacions_aula/3164/Organitzacio.md
+            - Distribució del temps: programacions_aula/3164/Temps.md
+            - Selecció de recursos: programacions_aula/3164/Recursos.md
+            - Atenció a la diversitat: programacions_aula/3164/Diversitat.md
+            - Instruments d’avaluació: programacions_aula/3164/Instruments.md
+        - Tutoria Segon:
+            - programacions_aula/TU02CF/index.md
+            - Situacions d'aprenentatge:
+                - programacions_aula/TU02CF/Situacions.md
+                - programacions_aula/TU02CF/SA1.md
+            - Criteris d’avaluació: programacions_aula/TU02CF/Criteris.md
+            - Organització dels espais: programacions_aula/TU02CF/Organitzacio.md
+            - Distribució del temps: programacions_aula/TU02CF/Temps.md
+            - Selecció de recursos: programacions_aula/TU02CF/Recursos.md
+            - Atenció a la diversitat: programacions_aula/TU02CF/Diversitat.md
+            - Instruments d’avaluació: programacions_aula/TU02CF/Instruments.md
+        - Projecte intermodular:
+            - programacions_aula/3160972/index.md
+            - Situacions d'aprenentatge:
+                - programacions_aula/3160972/Situacions.md
+                - programacions_aula/3160972/SA1.md
+            - Criteris d’avaluació: programacions_aula/3160972/Criteris.md
+            - Organització dels espais: programacions_aula/3160972/Organitzacio.md
+            - Distribució del temps: programacions_aula/3160972/Temps.md
+            - Selecció de recursos: programacions_aula/3160972/Recursos.md
+            - Atenció a la diversitat: programacions_aula/3160972/Diversitat.md
+            - Instruments d’avaluació: programacions_aula/3160972/Instruments.md
+
 
 markdown_extensions:
   - admonition
