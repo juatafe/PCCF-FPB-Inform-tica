@@ -75,6 +75,16 @@ nav:
   - 19-Altres.md
   - 20-Les programacions d'aula dels mòduls i/o els projectes :
     - 20-PA.md
+    - Projecte Aprenem ensenyat:
+        - projecte_aprenem/index.md
+        - projecte_aprenem/planificacio.md
+        - projecte_aprenem/participacio.md
+        - projecte_aprenem/enllac.md
+    - Projecte Aprenem de la Pluja:
+        - pluja/index.md
+        - pluja/planificacio.md
+        - pluja/participacio.md
+        - pluja/enllac.md
     - Programacions d’aula 1r curs:
         - Muntatge i manteniment de sistemes:
             - programacions_aula/3029/index.md

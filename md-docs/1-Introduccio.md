@@ -16,10 +16,10 @@ El primer requeriment d’un projecte curricular de cicle formatiu (PCCF) és la
 ## Centre educatiu
 
 - **Nom del centre**: IES Jaume II el Just.
-- **Codi del centre**: 46019083.
+- **Codi del centre**: 46008340.
 - **Localitat**: Tavernes de la Valldigna (La Safor).
 - **Província**: València.
-- **Tipus de centre**: Institut d’Educació Secundària públic.
+- **Tipus de centre**: Institut públic d’Educació Secundària, Batxillerat i FP.
 - **Modalitat d’ensenyament**: presencial.
 
 ## Equip educatiu responsable
