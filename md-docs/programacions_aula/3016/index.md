@@ -1,4 +1,4 @@
-# :school: Introducció
+## :school: Introducció
 
 El mòdul professional **Instal·lació i Manteniment de Xarxes** forma part del segon curs del cicle de **Formació Professional Bàsica en Informàtica i Comunicacions** (IMX). El seu objectiu principal és **capacitar l’alumnat** per a la instal·lació, configuració i manteniment bàsic d’infraestructures de xarxes locals i d’elements informàtics essencials, tant en entorns **domèstics com professionals**.
 
