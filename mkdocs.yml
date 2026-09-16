@@ -1,13 +1,9 @@
-site_name: PCCF FPB Informàtica
-site_description: Plantilla per a la creació de continguts del cicle formatiu de
-  formació professional bàsica d'informàtica del IES Jaume el Just
-site_author: JB Talens
+site_name: Projecte Curricular del Cicle Formatiu
+docs_dir: md-docs
+site_dir: docs
 site_url: https://juatafe.github.io/PCCF-FPB-Inform-tica/
-use_directory_urls: false
-docs_dir: 'md-docs'
-site_dir: 'docs'
 
-theme:
+theme: 
   name: material
   logo: "assets/img/logos/logoJust.png"
   favicon: "assets/img/logos/logo50.ico"
@@ -31,386 +27,6 @@ theme:
         icon: material/brightness-4
         name: Mode clar
 
-extra:
-  logo: |
-    <div class="md-logo-container">
-      <a href="https://portal.edu.gva.es/iesjaumeeljust/" target="_blank" class="logo-just"></a>
-      <a href="https://ceice.gva.es/va/web/educacion" target="_blank" class="logo-gvanext"></a>
-    </div>
-  social:
-    - icon: material/email
-      link: mailto:jb.talensfelis@edu.gva.es
-      name: Contacte
-  consent:
-    title: Consentiment de Cookies
-    description: Utilitzem cookies per reconèixer les vostres visites i preferències repetides, així com per mesurar l'eficàcia de la nostra documentació i si els usuaris troben el que estan cercant. Amb el vostre consentiment, ens esteu ajudant a millorar la nostra documentació.
-  generator: false
-
-copyright: |
-  <div class="custom-footer">
-    <div class="footer-logo footer-left"></div>
-    <span class="footer-text">© 2025 Llicència CC BY-NC-SA 4.0</span>
-    <div class="footer-logo footer-right"></div>
-  </div>
-
-nav:
-  - 1-Introduccio.md
-  - 2-MarcNormatiu.md
-  - 3-Adequacio.md
-  - 4-Contribucio-Compet.md
-  - 5-Contribucio-Ocupa.md
-  - 6-EnfocamentsDidactics.md
-  - 7-OrganitzacioModuls.md
-  - 8-CriterisGenerals.md
-  - 9-BasesDades.md
-  - 10-CriterisPlans.md
-  - 11-CriterisDigiSos.md
-  - 12-PlaTutorial.md
-  - 13-CorreccioPlans.md
-  - 14-OrientacioUsEspais.md
-  - 15-CriterisAva.md
-  - 16-MRI.md
-  - 17-CriterisActivitats.md
-  - 18-CriterisModulP.md
-  - 19-Altres.md
-  - 20-Les programacions didàctiques dels mòduls i/o els projectes :
-    - 20-PA.md
-    - Projecte Aprenem ensenyat:
-        - projecte_aprenem/index.md
-        - projecte_aprenem/planificacio.md
-        - projecte_aprenem/participacio.md
-        - projecte_aprenem/enllac.md
-    - Projecte Aprenem de la Pluja:
-        - projectes/pluja/1-Aprenem_pluja.md
-        - projectes/pluja/planificacio.md
-        - projectes/pluja/participacio.md
-        - projectes/pluja/enllac.md
-    - Programacions didàctiques 1r curs:
-      - Muntatge i manteniment de sistemes:
-          - programacions_didactiques/3029/index.md
-          - Dades identificatives i contextualització: programacions_didactiques/3029/Context.md
-          - Relació amb els estàndards de competència: programacions_didactiques/3029/Competencies.md
-          - Contribució dels RA a les competències generals: programacions_didactiques/3029/RACompetencies.md
-          - Seqüenciació de les unitats de programació: programacions_didactiques/3029/Sequenciacio.md
-          - Metodologia: programacions_didactiques/3029/Metodologia.md
-          - Recursos: programacions_didactiques/3029/Recursos.md
-          - Ús d’espais i equipaments: programacions_didactiques/3029/Espais.md
-          - Atenció a la diversitat: programacions_didactiques/3029/Diversitat.md
-          - Avaluació de l’aprenentatge: programacions_didactiques/3029/Avaluacio.md
-          - Activitats complementàries i extraescolars: programacions_didactiques/3029/Activitats.md
-          - Criteris i procediments d’avaluació de la programació i de la pràctica docent: programacions_didactiques/3029/CriterisAvaluacio.md
-          - Criteris de qualificació: programacions_didactiques/3029/Qualificacio.md
-
-      - Ofimàtica i arxiu de documents:
-          - programacions_didactiques/3031/index.md
-          - Dades identificatives i contextualització: programacions_didactiques/3031/Context.md
-          - Relació amb els estàndards de competència: programacions_didactiques/3031/Competencies.md
-          - Contribució dels RA a les competències generals: programacions_didactiques/3031/RACompetencies.md
-          - Seqüenciació de les unitats de programació: programacions_didactiques/3031/Sequenciacio.md
-          - Metodologia: programacions_didactiques/3031/Metodologia.md
-          - Recursos: programacions_didactiques/3031/Recursos.md
-          - Ús d’espais i equipaments: programacions_didactiques/3031/Espais.md
-          - Atenció a la diversitat: programacions_didactiques/3031/Diversitat.md
-          - Avaluació de l’aprenentatge: programacions_didactiques/3031/Avaluacio.md
-          - Activitats complementàries i extraescolars: programacions_didactiques/3031/Activitats.md
-          - Criteris i procediments d’avaluació de la programació i de la pràctica docent: programacions_didactiques/3031/CriterisAvaluacio.md
-          - Criteris de qualificació: programacions_didactiques/3031/Qualificacio.md
-
-      - Comunicació i Ciències Socials I:
-          - programacions_didactiques/3161/index.md
-          - Dades identificatives i contextualització: programacions_didactiques/3161/Context.md
-          - Relació amb els estàndards de competència: programacions_didactiques/3161/Competencies.md
-          - Contribució dels RA a les competències generals: programacions_didactiques/3161/RACompetencies.md
-          - Seqüenciació de les unitats de programació: programacions_didactiques/3161/Sequenciacio.md
-          - Metodologia: programacions_didactiques/3161/Metodologia.md
-          - Recursos: programacions_didactiques/3161/Recursos.md
-          - Ús d’espais i equipaments: programacions_didactiques/3161/Espais.md
-          - Atenció a la diversitat: programacions_didactiques/3161/Diversitat.md
-          - Avaluació de l’aprenentatge: programacions_didactiques/3161/Avaluacio.md
-          - Activitats complementàries i extraescolars: programacions_didactiques/3161/Activitats.md
-          - Criteris i procediments d’avaluació de la programació i de la pràctica docent: programacions_didactiques/3161/CriterisAvaluacio.md
-          - Criteris de qualificació: programacions_didactiques/3161/Qualificacio.md
-
-      - Ciències Aplicades I:
-          - programacions_didactiques/3163/index.md
-          - Dades identificatives i contextualització: programacions_didactiques/3163/Context.md
-          - Relació amb els estàndards de competència: programacions_didactiques/3163/Competencies.md
-          - Contribució dels RA a les competències generals: programacions_didactiques/3163/RACompetencies.md
-          - Seqüenciació de les unitats de programació: programacions_didactiques/3163/Sequenciacio.md
-          - Metodologia: programacions_didactiques/3163/Metodologia.md
-          - Recursos: programacions_didactiques/3163/Recursos.md
-          - Ús d’espais i equipaments: programacions_didactiques/3163/Espais.md
-          - Atenció a la diversitat: programacions_didactiques/3163/Diversitat.md
-          - Avaluació de l’aprenentatge: programacions_didactiques/3163/Avaluacio.md
-          - Activitats complementàries i extraescolars: programacions_didactiques/3163/Activitats.md
-          - Criteris i procediments d’avaluació de la programació i de la pràctica docent: programacions_didactiques/3163/CriterisAvaluacio.md
-          - Criteris de qualificació: programacions_didactiques/3163/Qualificacio.md
-
-      - Tutoria Primer:
-          - programacions_didactiques/TU01CF/index.md
-          - Dades identificatives i contextualització: programacions_didactiques/TU01CF/Context.md
-          - Relació amb els estàndards de competència: programacions_didactiques/TU01CF/Competencies.md
-          - Contribució dels RA a les competències generals: programacions_didactiques/TU01CF/RACompetencies.md
-          - Seqüenciació de les unitats de programació: programacions_didactiques/TU01CF/Sequenciacio.md
-          - Metodologia: programacions_didactiques/TU01CF/Metodologia.md
-          - Recursos: programacions_didactiques/TU01CF/Recursos.md
-          - Ús d’espais i equipaments: programacions_didactiques/TU01CF/Espais.md
-          - Atenció a la diversitat: programacions_didactiques/TU01CF/Diversitat.md
-          - Avaluació de l’aprenentatge: programacions_didactiques/TU01CF/Avaluacio.md
-          - Activitats complementàries i extraescolars: programacions_didactiques/TU01CF/Activitats.md
-          - Criteris i procediments d’avaluació de la programació i de la pràctica docent: programacions_didactiques/TU01CF/CriterisAvaluacio.md
-          - Criteris de qualificació: programacions_didactiques/TU01CF/Qualificacio.md
-
-      - Itinerari personal per a l'ocupabilitat 1r:
-          - programacions_didactiques/3159p/index.md
-          - Dades identificatives i contextualització: programacions_didactiques/3159p/Context.md
-          - Relació amb els estàndards de competència: programacions_didactiques/3159p/Competencies.md
-          - Contribució dels RA a les competències generals: programacions_didactiques/3159p/RACompetencies.md
-          - Seqüenciació de les unitats de programació: programacions_didactiques/3159p/Sequenciacio.md
-          - Metodologia: programacions_didactiques/3159p/Metodologia.md
-          - Recursos: programacions_didactiques/3159p/Recursos.md
-          - Ús d’espais i equipaments: programacions_didactiques/3159p/Espais.md
-          - Atenció a la diversitat: programacions_didactiques/3159p/Diversitat.md
-          - Avaluació de l’aprenentatge: programacions_didactiques/3159p/Avaluacio.md
-          - Activitats complementàries i extraescolars: programacions_didactiques/3159p/Activitats.md
-          - Criteris i procediments d’avaluació de la programació i de la pràctica docent: programacions_didactiques/3159p/CriterisAvaluacio.md
-          - Criteris de qualificació: programacions_didactiques/3159p/Qualificacio.md
-
-    - Programacions didàctiques 2n curs:
-        - Instal·lació i manteniment de xarxes:
-            - programacions_didactiques/3016/index.md
-            - Dades identificatives i contextualització: programacions_didactiques/3016/Context.md
-            - Relació amb els estàndards de competència: programacions_didactiques/3016/Competencies.md
-            - Contribució dels RA a les competències generals: programacions_didactiques/3016/RACompetencies.md
-            - Seqüenciació de les unitats de programació: programacions_didactiques/3016/Sequenciacio.md
-            - Metodologia: programacions_didactiques/3016/Metodologia.md
-            - Recursos: programacions_didactiques/3016/Recursos.md
-            - Ús d’espais i equipaments: programacions_didactiques/3016/Espais.md
-            - Atenció a la diversitat: programacions_didactiques/3016/Diversitat.md
-            - Avaluació de l’aprenentatge: programacions_didactiques/3016/Avaluacio.md
-            - Activitats complementàries i extraescolars: programacions_didactiques/3016/Activitats.md
-            - Criteris i procediments d’avaluació de la programació i de la pràctica docent: programacions_didactiques/3016/CriterisAvaluacio.md
-            - Criteris de qualificació: programacions_didactiques/3016/Qualificacio.md
-
-        - Operacions auxiliars per a la configuració:
-            - programacions_didactiques/3030/index.md
-            - Dades identificatives i contextualització: programacions_didactiques/3030/Context.md
-            - Relació amb els estàndards de competència: programacions_didactiques/3030/Competencies.md
-            - Contribució dels RA a les competències generals: programacions_didactiques/3030/RACompetencies.md
-            - Seqüenciació de les unitats de programació: programacions_didactiques/3030/Sequenciacio.md
-            - Metodologia: programacions_didactiques/3030/Metodologia.md
-            - Recursos: programacions_didactiques/3030/Recursos.md
-            - Ús d’espais i equipaments: programacions_didactiques/3030/Espais.md
-            - Atenció a la diversitat: programacions_didactiques/3030/Diversitat.md
-            - Avaluació de l’aprenentatge: programacions_didactiques/3030/Avaluacio.md
-            - Activitats complementàries i extraescolars: programacions_didactiques/3030/Activitats.md
-            - Criteris i procediments d’avaluació de la programació i de la pràctica docent: programacions_didactiques/3030/CriterisAvaluacio.md
-            - Criteris de qualificació: programacions_didactiques/3030/Qualificacio.md
-
-        - Itinerari personal per a l'ocupabilitat 2n:
-            - programacions_didactiques/3159/index.md
-            - Dades identificatives i contextualització: programacions_didactiques/3159/Context.md
-            - Relació amb els estàndards de competència: programacions_didactiques/3159/Competencies.md
-            - Contribució dels RA a les competències generals: programacions_didactiques/3159/RACompetencies.md
-            - Seqüenciació de les unitats de programació: programacions_didactiques/3159/Sequenciacio.md
-            - Metodologia: programacions_didactiques/3159/Metodologia.md
-            - Recursos: programacions_didactiques/3159/Recursos.md
-            - Ús d’espais i equipaments: programacions_didactiques/3159/Espais.md
-            - Atenció a la diversitat: programacions_didactiques/3159/Diversitat.md
-            - Avaluació de l’aprenentatge: programacions_didactiques/3159/Avaluacio.md
-            - Activitats complementàries i extraescolars: programacions_didactiques/3159/Activitats.md
-            - Criteris i procediments d’avaluació de la programació i de la pràctica docent: programacions_didactiques/3159/CriterisAvaluacio.md
-            - Criteris de qualificació: programacions_didactiques/3159/Qualificacio.md
-
-        - Comunicació i Ciències Socials II:
-            - programacions_didactiques/3162/index.md
-            - Dades identificatives i contextualització: programacions_didactiques/3162/Context.md
-            - Relació amb els estàndards de competència: programacions_didactiques/3162/Competencies.md
-            - Contribució dels RA a les competències generals: programacions_didactiques/3162/RACompetencies.md
-            - Seqüenciació de les unitats de programació: programacions_didactiques/3162/Sequenciacio.md
-            - Metodologia: programacions_didactiques/3162/Metodologia.md
-            - Recursos: programacions_didactiques/3162/Recursos.md
-            - Ús d’espais i equipaments: programacions_didactiques/3162/Espais.md
-            - Atenció a la diversitat: programacions_didactiques/3162/Diversitat.md
-            - Avaluació de l’aprenentatge: programacions_didactiques/3162/Avaluacio.md
-            - Activitats complementàries i extraescolars: programacions_didactiques/3162/Activitats.md
-            - Criteris i procediments d’avaluació de la programació i de la pràctica docent: programacions_didactiques/3162/CriterisAvaluacio.md
-            - Criteris de qualificació: programacions_didactiques/3162/Qualificacio.md
-
-        - Ciències Aplicades II:
-            - programacions_didactiques/3164/index.md
-            - Dades identificatives i contextualització: programacions_didactiques/3164/Context.md
-            - Relació amb els estàndards de competència: programacions_didactiques/3164/Competencies.md
-            - Contribució dels RA a les competències generals: programacions_didactiques/3164/RACompetencies.md
-            - Seqüenciació de les unitats de programació: programacions_didactiques/3164/Sequenciacio.md
-            - Metodologia: programacions_didactiques/3164/Metodologia.md
-            - Recursos: programacions_didactiques/3164/Recursos.md
-            - Ús d’espais i equipaments: programacions_didactiques/3164/Espais.md
-            - Atenció a la diversitat: programacions_didactiques/3164/Diversitat.md
-            - Avaluació de l’aprenentatge: programacions_didactiques/3164/Avaluacio.md
-            - Activitats complementàries i extraescolars: programacions_didactiques/3164/Activitats.md
-            - Criteris i procediments d’avaluació de la programació i de la pràctica docent: programacions_didactiques/3164/CriterisAvaluacio.md
-            - Criteris de qualificació: programacions_didactiques/3164/Qualificacio.md
-
-        - Tutoria Segon:
-            - programacions_didactiques/TU02CF/index.md
-            - Dades identificatives i contextualització: programacions_didactiques/TU02CF/Context.md
-            - Relació amb els estàndards de competència: programacions_didactiques/TU02CF/Competencies.md
-            - Contribució dels RA a les competències generals: programacions_didactiques/TU02CF/RACompetencies.md
-            - Seqüenciació de les unitats de programació: programacions_didactiques/TU02CF/Sequenciacio.md
-            - Metodologia: programacions_didactiques/TU02CF/Metodologia.md
-            - Recursos: programacions_didactiques/TU02CF/Recursos.md
-            - Ús d’espais i equipaments: programacions_didactiques/TU02CF/Espais.md
-            - Atenció a la diversitat: programacions_didactiques/TU02CF/Diversitat.md
-            - Avaluació
-
-    # - Programacions didàctiques 1r curs:
-    #     - Muntatge i manteniment de sistemes:
-    #         - programacions_aula/3029/index.md
-    #         - Situacions d'aprenentatge:
-    #             - programacions_aula/3029/Situacions.md
-    #             - programacions_aula/3029/SA1.md
-    #         - Criteris d’avaluació: programacions_aula/3029/Criteris.md
-    #         - Organització dels espais: programacions_aula/3029/Organitzacio.md
-    #         - Distribució del temps: programacions_aula/3029/Temps.md
-    #         - Selecció de recursos: programacions_aula/3029/Recursos.md
-    #         - Atenció a la diversitat: programacions_aula/3029/Diversitat.md
-    #         - Instruments d’avaluació: programacions_aula/3029/Instruments.md
-    #     - Ofimàtica i arxiu de documents:
-    #         - programacions_aula/3031/index.md
-    #         - Situacions d'aprenentatge:
-    #             - programacions_aula/3031/Situacions.md
-    #             - programacions_aula/3031/SA1.md
-    #         - Criteris d’avaluació: programacions_aula/3031/Criteris.md
-    #         - Organització dels espais: programacions_aula/3031/Organitzacio.md
-    #         - Distribució del temps: programacions_aula/3031/Temps.md
-    #         - Selecció de recursos: programacions_aula/3031/Recursos.md
-    #         - Atenció a la diversitat: programacions_aula/3031/Diversitat.md
-    #         - Instruments d’avaluació: programacions_aula/3031/Instruments.md
-    #     - Comunicació i Ciències Socials I:
-    #         - programacions_aula/3161/index.md
-    #         - Situacions d'aprenentatge:
-    #             - programacions_aula/3161/Situacions.md
-    #             - programacions_aula/3161/SA1.md
-    #         - Criteris d’avaluació: programacions_aula/3161/Criteris.md
-    #         - Organització dels espais: programacions_aula/3161/Organitzacio.md
-    #         - Distribució del temps: programacions_aula/3161/Temps.md
-    #         - Selecció de recursos: programacions_aula/3161/Recursos.md
-    #         - Atenció a la diversitat: programacions_aula/3161/Diversitat.md
-    #         - Instruments d’avaluació: programacions_aula/3161/Instruments.md
-    #     - Ciències Aplicades I:
-    #         - programacions_aula/3163/index.md
-    #         - Situacions d'aprenentatge:
-    #             - programacions_aula/3163/Situacions.md
-    #             - programacions_aula/3163/SA1.md
-    #         - Criteris d’avaluació: programacions_aula/3163/Criteris.md
-    #         - Organització dels espais: programacions_aula/3163/Organitzacio.md
-    #         - Distribució del temps: programacions_aula/3163/Temps.md
-    #         - Selecció de recursos: programacions_aula/3163/Recursos.md
-    #         - Atenció a la diversitat: programacions_aula/3163/Diversitat.md
-    #         - Instruments d’avaluació: programacions_aula/3163/Instruments.md
-    #     - Tutoria Primer:
-    #         - programacions_aula/TU01CF/index.md
-    #         - Situacions d'aprenentatge:
-    #             - programacions_aula/TU01CF/Situacions.md
-    #             - programacions_aula/TU01CF/SA1.md
-    #         - Criteris d’avaluació: programacions_aula/TU01CF/Criteris.md
-    #         - Organització dels espais: programacions_aula/TU01CF/Organitzacio.md
-    #         - Distribució del temps: programacions_aula/TU01CF/Temps.md
-    #         - Selecció de recursos: programacions_aula/TU01CF/Recursos.md
-    #         - Atenció a la diversitat: programacions_aula/TU01CF/Diversitat.md
-    #         - Instruments d’avaluació: programacions_aula/TU01CF/Instruments.md
-    #     - Itinerari personal per a l'ocupabilitat 1r:
-    #         - programacions_aula/3159p/index.md
-    #         - Situacions d'aprenentatge:
-    #             - programacions_aula/3159p/Situacions.md
-    #             - programacions_aula/3159p/SA1.md
-    #         - Criteris d’avaluació: programacions_aula/3159p/Criteris.md
-    #         - Organització dels espais: programacions_aula/3159p/Organitzacio.md
-    #         - Distribució del temps: programacions_aula/3159p/Temps.md
-    #         - Selecció de recursos: programacions_aula/3159p/Recursos.md
-    #         - Atenció a la diversitat: programacions_aula/3159p/Diversitat.md
-    #         - Instruments d’avaluació: programacions_aula/3159p/Instruments.md
-    # - Programacions didàctiques 2n curs:
-    #     - Instal·lació i manteniment de xarxes:
-    #         - programacions_aula/3016/index.md
-    #         - Situacions d'aprenentatge:
-    #             - programacions_aula/3016/Situacions.md
-    #             - programacions_aula/3016/SA1.md
-    #         - Criteris d’avaluació: programacions_aula/3016/Criteris.md
-    #         - Organització dels espais: programacions_aula/3016/Organitzacio.md
-    #         - Distribució del temps: programacions_aula/3016/Temps.md
-    #         - Selecció de recursos: programacions_aula/3016/Recursos.md
-    #         - Atenció a la diversitat: programacions_aula/3016/Diversitat.md
-    #         - Instruments d’avaluació: programacions_aula/3016/Instruments.md
-    #     - Operacions auxiliars per a la configuració:
-    #         - programacions_aula/3030/index.md
-    #         - Situacions d'aprenentatge:
-    #             - programacions_aula/3030/Situacions.md
-    #             - programacions_aula/3030/SA1.md
-    #         - Criteris d’avaluació: programacions_aula/3030/Criteris.md
-    #         - Organització dels espais: programacions_aula/3030/Organitzacio.md
-    #         - Distribució del temps: programacions_aula/3030/Temps.md
-    #         - Selecció de recursos: programacions_aula/3030/Recursos.md
-    #         - Atenció a la diversitat: programacions_aula/3030/Diversitat.md
-    #         - Instruments d’avaluació: programacions_aula/3030/Instruments.md
-    #     - Itinerari personal per a l'ocupabilitat 2n:
-    #         - programacions_aula/3159/index.md
-    #         - Situacions d'aprenentatge:
-    #             - programacions_aula/3159/Situacions.md
-    #             - programacions_aula/3159/SA1.md
-    #         - Criteris d’avaluació: programacions_aula/3159/Criteris.md
-    #         - Organització dels espais: programacions_aula/3159/Organitzacio.md
-    #         - Distribució del temps: programacions_aula/3159/Temps.md
-    #         - Selecció de recursos: programacions_aula/3159/Recursos.md
-    #         - Atenció a la diversitat: programacions_aula/3159/Diversitat.md
-    #         - Instruments d’avaluació: programacions_aula/3159/Instruments.md
-    #     - Comunicació i Ciències Socials II:
-    #         - programacions_aula/3162/index.md
-    #         - Situacions d'aprenentatge:
-    #             - programacions_aula/3162/Situacions.md
-    #             - programacions_aula/3162/SA1.md
-    #         - Criteris d’avaluació: programacions_aula/3162/Criteris.md
-    #         - Organització dels espais: programacions_aula/3162/Organitzacio.md
-    #         - Distribució del temps: programacions_aula/3162/Temps.md
-    #         - Selecció de recursos: programacions_aula/3162/Recursos.md
-    #         - Atenció a la diversitat: programacions_aula/3162/Diversitat.md
-    #         - Instruments d’avaluació: programacions_aula/3162/Instruments.md
-    #     - Ciències Aplicades II:
-    #         - programacions_aula/3164/index.md
-    #         - Situacions d'aprenentatge:
-    #             - programacions_aula/3164/Situacions.md
-    #             - programacions_aula/3164/SA1.md
-    #         - Criteris d’avaluació: programacions_aula/3164/Criteris.md
-    #         - Organització dels espais: programacions_aula/3164/Organitzacio.md
-    #         - Distribució del temps: programacions_aula/3164/Temps.md
-    #         - Selecció de recursos: programacions_aula/3164/Recursos.md
-    #         - Atenció a la diversitat: programacions_aula/3164/Diversitat.md
-    #         - Instruments d’avaluació: programacions_aula/3164/Instruments.md
-    #     - Tutoria Segon:
-    #         - programacions_aula/TU02CF/index.md
-    #         - Situacions d'aprenentatge:
-    #             - programacions_aula/TU02CF/Situacions.md
-    #             - programacions_aula/TU02CF/SA1.md
-    #         - Criteris d’avaluació: programacions_aula/TU02CF/Criteris.md
-    #         - Organització dels espais: programacions_aula/TU02CF/Organitzacio.md
-    #         - Distribució del temps: programacions_aula/TU02CF/Temps.md
-    #         - Selecció de recursos: programacions_aula/TU02CF/Recursos.md
-    #         - Atenció a la diversitat: programacions_aula/TU02CF/Diversitat.md
-    #         - Instruments d’avaluació: programacions_aula/TU02CF/Instruments.md
-    #     - Projecte intermodular:
-    #         - programacions_aula/3160972/index.md
-    #         - Situacions d'aprenentatge:
-    #             - programacions_aula/3160972/Situacions.md
-    #             - programacions_aula/3160972/SA1.md
-    #         - Criteris d’avaluació: programacions_aula/3160972/Criteris.md
-    #         - Organització dels espais: programacions_aula/3160972/Organitzacio.md
-    #         - Distribució del temps: programacions_aula/3160972/Temps.md
-    #         - Selecció de recursos: programacions_aula/3160972/Recursos.md
-    #         - Atenció a la diversitat: programacions_aula/3160972/Diversitat.md
-    #         - Instruments d’avaluació: programacions_aula/3160972/Instruments.md
-
-
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -433,11 +49,6 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 
-extra_css:
-  - assets/stylesheets/extracsspdf.css
-  - assets/stylesheets/customs.css
-  - assets/stylesheets/extra.css
-
 plugins:
   - search
   - social:
@@ -448,3 +59,378 @@ plugins:
         button_color: "#000000"
         button_text_color: "#FFFFFF"
         button_text: "Més informació"
+  - add_tables:
+      ods_path: 'PCCF_FPB.ods'
+      xslt_path: 'ods2html.xslt'
+extra:
+  logo: |
+    <div class="md-logo-container">
+      <a href="https://portal.edu.gva.es/iesjaumeeljust/" target="_blank" class="logo-just"></a>
+      <a href="https://ceice.gva.es/va/web/educacion" target="_blank" class="logo-gvanext"></a>
+    </div>
+  social:
+    - icon: material/email
+      link: mailto:jb.talensfelis@edu.gva.es
+      name: Contacte
+  generator: false
+
+copyright: |
+  <div class="custom-footer">
+    <div class="footer-logo footer-left"></div>
+    <span class="footer-text">© 2025 Llicència CC BY-NC-SA 4.0</span>
+    <div class="footer-logo footer-right"></div>
+  </div>
+extra_css:
+  - styles/taules.css
+  - assets/stylesheets/extracsspdf.css
+  - assets/stylesheets/customs.css
+  - assets/stylesheets/extra.css
+
+
+
+nav:
+  - "Inici": index.md
+  - "1. Identificació del cicle Formatiu": 1.Identificacio.md
+  - "2. Marc normatiu per al desplegament del projecte curricular": 2.Marc_normatiu.md
+  - "3. Adequació i adaptació de les competències professionals": 3.adequacio_competencies.md
+  - "4. Contribució de cada mòdul a les competències professionals": 4.controbucio_moduls_competencies.md
+  - "5. Contribució a les competències per a l'ocupabilitat": 5.contribucio_moduls_competencies_ocupabilitat.md
+  - "6. Enfocaments didàctics i metodològics": 6.enfocaments_didactics.md
+  - "7. Organització i distribució dels mòduls professionals": 7.organitzacio_moduls.md
+  - "8. Criteris generals d'avaluació": 8.criteris_organitzacio_comunicacio.md
+  - "9. Base de dades d'empreses": 9.base_dades_empreses.md
+  - "10. Plans formatius individuals": 10.critesis_plans_indidivuals.md
+  - "11. Digitalització i sostenibilitat": 11.criteris_adaptar_moduls_sost_digitalitzacio.md
+  - "12. Tutoria i orientació professional": 12.pla_tutoria_orientacio.md
+  - "13. Plans i programes del centre": 13.concrecio_plans_programes_centre.md
+  - "14. Espais, mitjans i equipaments": 14.orientacions_us_espais.md
+  - "15. Avaluació i revisió de la pràctica docent": 15.criteris_procediments_avaluacio_practica_docent.md
+  - "16. Atenció a la diversitat i inclusió": 16.atencio_diversitat.md
+  - "17. Activitats complementàries i extraescolars": 17.cirteris_activitats_complementaries.md
+  - "18. Organització del mòdul professional de projecte": 18.criteris_organitzacio_md_projecte.md
+  - "19. Altres aspectes del PCCF": 19.alters_aspectes_pccf.md
+  - "20. Programacions i projectes":
+      - "Introducció": 20.programacions_didactiques.md
+      - "Programacions didàctiques":
+          - "3016":
+              - "index.md": programacions_didactiques/3016/index.md
+              - "Activitats.md": programacions_didactiques/3016/Activitats.md
+              - "Avaluacio.md": programacions_didactiques/3016/Avaluacio.md
+              - "Competencies.md": programacions_didactiques/3016/Competencies.md
+              - "Context.md": programacions_didactiques/3016/Context.md
+              - "CriterisAvaluacio.md": programacions_didactiques/3016/CriterisAvaluacio.md
+              - "Diversitat.md": programacions_didactiques/3016/Diversitat.md
+              - "Espais.md": programacions_didactiques/3016/Espais.md
+              - "Metodologia.md": programacions_didactiques/3016/Metodologia.md
+              - "Qualificacio.md": programacions_didactiques/3016/Qualificacio.md
+              - "RACompetencies.md": programacions_didactiques/3016/RACompetencies.md
+              - "Recursos.md": programacions_didactiques/3016/Recursos.md
+              - "Sequenciacio.md": programacions_didactiques/3016/Sequenciacio.md
+          - "3029":
+              - "index.md": programacions_didactiques/3029/index.md
+              - "Activitats.md": programacions_didactiques/3029/Activitats.md
+              - "Avaluacio.md": programacions_didactiques/3029/Avaluacio.md
+              - "Competencies.md": programacions_didactiques/3029/Competencies.md
+              - "Context.md": programacions_didactiques/3029/Context.md
+              - "CriterisAvaluacio.md": programacions_didactiques/3029/CriterisAvaluacio.md
+              - "Diversitat.md": programacions_didactiques/3029/Diversitat.md
+              - "Espais.md": programacions_didactiques/3029/Espais.md
+              - "Metodologia.md": programacions_didactiques/3029/Metodologia.md
+              - "Qualificacio.md": programacions_didactiques/3029/Qualificacio.md
+              - "RACompetencies.md": programacions_didactiques/3029/RACompetencies.md
+              - "Recursos.md": programacions_didactiques/3029/Recursos.md
+              - "Sequenciacio.md": programacions_didactiques/3029/Sequenciacio.md
+          - "3030":
+              - "index.md": programacions_didactiques/3030/index.md
+              - "Activitats.md": programacions_didactiques/3030/Activitats.md
+              - "Avaluacio.md": programacions_didactiques/3030/Avaluacio.md
+              - "Competencies.md": programacions_didactiques/3030/Competencies.md
+              - "Context.md": programacions_didactiques/3030/Context.md
+              - "CriterisAvaluacio.md": programacions_didactiques/3030/CriterisAvaluacio.md
+              - "Diversitat.md": programacions_didactiques/3030/Diversitat.md
+              - "Espais.md": programacions_didactiques/3030/Espais.md
+              - "Metodologia.md": programacions_didactiques/3030/Metodologia.md
+              - "Qualificacio.md": programacions_didactiques/3030/Qualificacio.md
+              - "RACompetencies.md": programacions_didactiques/3030/RACompetencies.md
+              - "Recursos.md": programacions_didactiques/3030/Recursos.md
+              - "Sequenciacio.md": programacions_didactiques/3030/Sequenciacio.md
+          - "3031":
+              - "index.md": programacions_didactiques/3031/index.md
+              - "Activitats.md": programacions_didactiques/3031/Activitats.md
+              - "Avaluacio.md": programacions_didactiques/3031/Avaluacio.md
+              - "Competencies.md": programacions_didactiques/3031/Competencies.md
+              - "Context.md": programacions_didactiques/3031/Context.md
+              - "CriterisAvaluacio.md": programacions_didactiques/3031/CriterisAvaluacio.md
+              - "Diversitat.md": programacions_didactiques/3031/Diversitat.md
+              - "Espais.md": programacions_didactiques/3031/Espais.md
+              - "Metodologia.md": programacions_didactiques/3031/Metodologia.md
+              - "Qualificacio.md": programacions_didactiques/3031/Qualificacio.md
+              - "RACompetencies.md": programacions_didactiques/3031/RACompetencies.md
+              - "Recursos.md": programacions_didactiques/3031/Recursos.md
+              - "Sequenciacio.md": programacions_didactiques/3031/Sequenciacio.md
+          - "3159":
+              - "index.md": programacions_didactiques/3159/index.md
+              - "Activitats.md": programacions_didactiques/3159/Activitats.md
+              - "Avaluacio.md": programacions_didactiques/3159/Avaluacio.md
+              - "Competencies.md": programacions_didactiques/3159/Competencies.md
+              - "Context.md": programacions_didactiques/3159/Context.md
+              - "CriterisAvaluacio.md": programacions_didactiques/3159/CriterisAvaluacio.md
+              - "Diversitat.md": programacions_didactiques/3159/Diversitat.md
+              - "Espais.md": programacions_didactiques/3159/Espais.md
+              - "Metodologia.md": programacions_didactiques/3159/Metodologia.md
+              - "Qualificacio.md": programacions_didactiques/3159/Qualificacio.md
+              - "RACompetencies.md": programacions_didactiques/3159/RACompetencies.md
+              - "Recursos.md": programacions_didactiques/3159/Recursos.md
+              - "Sequenciacio.md": programacions_didactiques/3159/Sequenciacio.md
+          - "3159p":
+              - "index.md": programacions_didactiques/3159p/index.md
+              - "Activitats.md": programacions_didactiques/3159p/Activitats.md
+              - "Avaluacio.md": programacions_didactiques/3159p/Avaluacio.md
+              - "Competencies.md": programacions_didactiques/3159p/Competencies.md
+              - "Context.md": programacions_didactiques/3159p/Context.md
+              - "CriterisAvaluacio.md": programacions_didactiques/3159p/CriterisAvaluacio.md
+              - "Diversitat.md": programacions_didactiques/3159p/Diversitat.md
+              - "Espais.md": programacions_didactiques/3159p/Espais.md
+              - "Metodologia.md": programacions_didactiques/3159p/Metodologia.md
+              - "Qualificacio.md": programacions_didactiques/3159p/Qualificacio.md
+              - "RACompetencies.md": programacions_didactiques/3159p/RACompetencies.md
+              - "Recursos.md": programacions_didactiques/3159p/Recursos.md
+              - "Sequenciacio.md": programacions_didactiques/3159p/Sequenciacio.md
+          - "3160972":
+              - "index.md": programacions_didactiques/3160972/index.md
+              - "Activitats.md": programacions_didactiques/3160972/Activitats.md
+              - "Avaluacio.md": programacions_didactiques/3160972/Avaluacio.md
+              - "Competencies.md": programacions_didactiques/3160972/Competencies.md
+              - "Context.md": programacions_didactiques/3160972/Context.md
+              - "CriterisAvaluacio.md": programacions_didactiques/3160972/CriterisAvaluacio.md
+              - "Diversitat.md": programacions_didactiques/3160972/Diversitat.md
+              - "Espais.md": programacions_didactiques/3160972/Espais.md
+              - "Metodologia.md": programacions_didactiques/3160972/Metodologia.md
+              - "Qualificacio.md": programacions_didactiques/3160972/Qualificacio.md
+              - "RACompetencies.md": programacions_didactiques/3160972/RACompetencies.md
+              - "Recursos.md": programacions_didactiques/3160972/Recursos.md
+              - "Sequenciacio.md": programacions_didactiques/3160972/Sequenciacio.md
+          - "3161":
+              - "index.md": programacions_didactiques/3161/index.md
+              - "Activitats.md": programacions_didactiques/3161/Activitats.md
+              - "Avaluacio.md": programacions_didactiques/3161/Avaluacio.md
+              - "Competencies.md": programacions_didactiques/3161/Competencies.md
+              - "Context.md": programacions_didactiques/3161/Context.md
+              - "CriterisAvaluacio.md": programacions_didactiques/3161/CriterisAvaluacio.md
+              - "Diversitat.md": programacions_didactiques/3161/Diversitat.md
+              - "Espais.md": programacions_didactiques/3161/Espais.md
+              - "Metodologia.md": programacions_didactiques/3161/Metodologia.md
+              - "Qualificacio.md": programacions_didactiques/3161/Qualificacio.md
+              - "RACompetencies.md": programacions_didactiques/3161/RACompetencies.md
+              - "Recursos.md": programacions_didactiques/3161/Recursos.md
+              - "Sequenciacio.md": programacions_didactiques/3161/Sequenciacio.md
+          - "3162":
+              - "index.md": programacions_didactiques/3162/index.md
+              - "Activitats.md": programacions_didactiques/3162/Activitats.md
+              - "Avaluacio.md": programacions_didactiques/3162/Avaluacio.md
+              - "Competencies.md": programacions_didactiques/3162/Competencies.md
+              - "Context.md": programacions_didactiques/3162/Context.md
+              - "CriterisAvaluacio.md": programacions_didactiques/3162/CriterisAvaluacio.md
+              - "Diversitat.md": programacions_didactiques/3162/Diversitat.md
+              - "Espais.md": programacions_didactiques/3162/Espais.md
+              - "Metodologia.md": programacions_didactiques/3162/Metodologia.md
+              - "Qualificacio.md": programacions_didactiques/3162/Qualificacio.md
+              - "RACompetencies.md": programacions_didactiques/3162/RACompetencies.md
+              - "Recursos.md": programacions_didactiques/3162/Recursos.md
+              - "Sequenciacio.md": programacions_didactiques/3162/Sequenciacio.md
+          - "3163":
+              - "index.md": programacions_didactiques/3163/index.md
+              - "Activitats.md": programacions_didactiques/3163/Activitats.md
+              - "Avaluacio.md": programacions_didactiques/3163/Avaluacio.md
+              - "Competencies.md": programacions_didactiques/3163/Competencies.md
+              - "Context.md": programacions_didactiques/3163/Context.md
+              - "CriterisAvaluacio.md": programacions_didactiques/3163/CriterisAvaluacio.md
+              - "Diversitat.md": programacions_didactiques/3163/Diversitat.md
+              - "Espais.md": programacions_didactiques/3163/Espais.md
+              - "Metodologia.md": programacions_didactiques/3163/Metodologia.md
+              - "Qualificacio.md": programacions_didactiques/3163/Qualificacio.md
+              - "RACompetencies.md": programacions_didactiques/3163/RACompetencies.md
+              - "Recursos.md": programacions_didactiques/3163/Recursos.md
+              - "Sequenciacio.md": programacions_didactiques/3163/Sequenciacio.md
+          - "3164":
+              - "index.md": programacions_didactiques/3164/index.md
+              - "Activitats.md": programacions_didactiques/3164/Activitats.md
+              - "Avaluacio.md": programacions_didactiques/3164/Avaluacio.md
+              - "Competencies.md": programacions_didactiques/3164/Competencies.md
+              - "Context.md": programacions_didactiques/3164/Context.md
+              - "CriterisAvaluacio.md": programacions_didactiques/3164/CriterisAvaluacio.md
+              - "Diversitat.md": programacions_didactiques/3164/Diversitat.md
+              - "Espais.md": programacions_didactiques/3164/Espais.md
+              - "Metodologia.md": programacions_didactiques/3164/Metodologia.md
+              - "Qualificacio.md": programacions_didactiques/3164/Qualificacio.md
+              - "RACompetencies.md": programacions_didactiques/3164/RACompetencies.md
+              - "Recursos.md": programacions_didactiques/3164/Recursos.md
+              - "Sequenciacio.md": programacions_didactiques/3164/Sequenciacio.md
+          - "TU01CF":
+              - "index.md": programacions_didactiques/TU01CF/index.md
+              - "Activitats.md": programacions_didactiques/TU01CF/Activitats.md
+              - "Avaluacio.md": programacions_didactiques/TU01CF/Avaluacio.md
+              - "Competencies.md": programacions_didactiques/TU01CF/Competencies.md
+              - "Context.md": programacions_didactiques/TU01CF/Context.md
+              - "CriterisAvaluacio.md": programacions_didactiques/TU01CF/CriterisAvaluacio.md
+              - "Diversitat.md": programacions_didactiques/TU01CF/Diversitat.md
+              - "Espais.md": programacions_didactiques/TU01CF/Espais.md
+              - "Metodologia.md": programacions_didactiques/TU01CF/Metodologia.md
+              - "Qualificacio.md": programacions_didactiques/TU01CF/Qualificacio.md
+              - "RACompetencies.md": programacions_didactiques/TU01CF/RACompetencies.md
+              - "Recursos.md": programacions_didactiques/TU01CF/Recursos.md
+              - "Sequenciacio.md": programacions_didactiques/TU01CF/Sequenciacio.md
+          - "TU02CF":
+              - "index.md": programacions_didactiques/TU02CF/index.md
+              - "Activitats.md": programacions_didactiques/TU02CF/Activitats.md
+              - "Avaluacio.md": programacions_didactiques/TU02CF/Avaluacio.md
+              - "Competencies.md": programacions_didactiques/TU02CF/Competencies.md
+              - "Context.md": programacions_didactiques/TU02CF/Context.md
+              - "CriterisAvaluacio.md": programacions_didactiques/TU02CF/CriterisAvaluacio.md
+              - "Diversitat.md": programacions_didactiques/TU02CF/Diversitat.md
+              - "Espais.md": programacions_didactiques/TU02CF/Espais.md
+              - "Metodologia.md": programacions_didactiques/TU02CF/Metodologia.md
+              - "Qualificacio.md": programacions_didactiques/TU02CF/Qualificacio.md
+              - "RACompetencies.md": programacions_didactiques/TU02CF/RACompetencies.md
+              - "Recursos.md": programacions_didactiques/TU02CF/Recursos.md
+              - "Sequenciacio.md": programacions_didactiques/TU02CF/Sequenciacio.md
+      - "Programacions d'aula":
+          - "3016":
+              - "index.md": programacions_aula/3016/index.md
+              - "Criteris.md": programacions_aula/3016/Criteris.md
+              - "Diversitat.md": programacions_aula/3016/Diversitat.md
+              - "Instruments.md": programacions_aula/3016/Instruments.md
+              - "Organitzacio.md": programacions_aula/3016/Organitzacio.md
+              - "Recursos.md": programacions_aula/3016/Recursos.md
+              - "SA1.md": programacions_aula/3016/SA1.md
+              - "Situacions.md": programacions_aula/3016/Situacions.md
+              - "Temps.md": programacions_aula/3016/Temps.md
+          - "3029":
+              - "index.md": programacions_aula/3029/index.md
+              - "Criteris.md": programacions_aula/3029/Criteris.md
+              - "Diversitat.md": programacions_aula/3029/Diversitat.md
+              - "Instruments.md": programacions_aula/3029/Instruments.md
+              - "Organitzacio.md": programacions_aula/3029/Organitzacio.md
+              - "Recursos.md": programacions_aula/3029/Recursos.md
+              - "SA1.md": programacions_aula/3029/SA1.md
+              - "Situacions.md": programacions_aula/3029/Situacions.md
+              - "Temps.md": programacions_aula/3029/Temps.md
+          - "3030":
+              - "index.md": programacions_aula/3030/index.md
+              - "Criteris.md": programacions_aula/3030/Criteris.md
+              - "Diversitat.md": programacions_aula/3030/Diversitat.md
+              - "Instruments.md": programacions_aula/3030/Instruments.md
+              - "Organitzacio.md": programacions_aula/3030/Organitzacio.md
+              - "Recursos.md": programacions_aula/3030/Recursos.md
+              - "SA1.md": programacions_aula/3030/SA1.md
+              - "Situacions.md": programacions_aula/3030/Situacions.md
+              - "Temps.md": programacions_aula/3030/Temps.md
+          - "3031":
+              - "index.md": programacions_aula/3031/index.md
+              - "Criteris.md": programacions_aula/3031/Criteris.md
+              - "Diversitat.md": programacions_aula/3031/Diversitat.md
+              - "Instruments.md": programacions_aula/3031/Instruments.md
+              - "Organitzacio.md": programacions_aula/3031/Organitzacio.md
+              - "Recursos.md": programacions_aula/3031/Recursos.md
+              - "SA1.md": programacions_aula/3031/SA1.md
+              - "Situacions.md": programacions_aula/3031/Situacions.md
+              - "Temps.md": programacions_aula/3031/Temps.md
+          - "3159":
+              - "index.md": programacions_aula/3159/index.md
+              - "Criteris.md": programacions_aula/3159/Criteris.md
+              - "Diversitat.md": programacions_aula/3159/Diversitat.md
+              - "Instruments.md": programacions_aula/3159/Instruments.md
+              - "Organitzacio.md": programacions_aula/3159/Organitzacio.md
+              - "Recursos.md": programacions_aula/3159/Recursos.md
+              - "SA1.md": programacions_aula/3159/SA1.md
+              - "Situacions.md": programacions_aula/3159/Situacions.md
+              - "Temps.md": programacions_aula/3159/Temps.md
+          - "3159p":
+              - "index.md": programacions_aula/3159p/index.md
+              - "Criteris.md": programacions_aula/3159p/Criteris.md
+              - "Diversitat.md": programacions_aula/3159p/Diversitat.md
+              - "Instruments.md": programacions_aula/3159p/Instruments.md
+              - "Organitzacio.md": programacions_aula/3159p/Organitzacio.md
+              - "Recursos.md": programacions_aula/3159p/Recursos.md
+              - "SA1.md": programacions_aula/3159p/SA1.md
+              - "Situacions.md": programacions_aula/3159p/Situacions.md
+              - "Temps.md": programacions_aula/3159p/Temps.md
+          - "3160972":
+              - "index.md": programacions_aula/3160972/index.md
+              - "Criteris.md": programacions_aula/3160972/Criteris.md
+              - "Diversitat.md": programacions_aula/3160972/Diversitat.md
+              - "Instruments.md": programacions_aula/3160972/Instruments.md
+              - "Organitzacio.md": programacions_aula/3160972/Organitzacio.md
+              - "Recursos.md": programacions_aula/3160972/Recursos.md
+              - "SA1.md": programacions_aula/3160972/SA1.md
+              - "Situacions.md": programacions_aula/3160972/Situacions.md
+              - "Temps.md": programacions_aula/3160972/Temps.md
+          - "3161":
+              - "index.md": programacions_aula/3161/index.md
+              - "Criteris.md": programacions_aula/3161/Criteris.md
+              - "Diversitat.md": programacions_aula/3161/Diversitat.md
+              - "Instruments.md": programacions_aula/3161/Instruments.md
+              - "Organitzacio.md": programacions_aula/3161/Organitzacio.md
+              - "Recursos.md": programacions_aula/3161/Recursos.md
+              - "SA1.md": programacions_aula/3161/SA1.md
+              - "Situacions.md": programacions_aula/3161/Situacions.md
+              - "Temps.md": programacions_aula/3161/Temps.md
+          - "3162":
+              - "index.md": programacions_aula/3162/index.md
+              - "Criteris.md": programacions_aula/3162/Criteris.md
+              - "Diversitat.md": programacions_aula/3162/Diversitat.md
+              - "Instruments.md": programacions_aula/3162/Instruments.md
+              - "Organitzacio.md": programacions_aula/3162/Organitzacio.md
+              - "Recursos.md": programacions_aula/3162/Recursos.md
+              - "SA1.md": programacions_aula/3162/SA1.md
+              - "Situacions.md": programacions_aula/3162/Situacions.md
+              - "Temps.md": programacions_aula/3162/Temps.md
+          - "3163":
+              - "index.md": programacions_aula/3163/index.md
+              - "Criteris.md": programacions_aula/3163/Criteris.md
+              - "Diversitat.md": programacions_aula/3163/Diversitat.md
+              - "Instruments.md": programacions_aula/3163/Instruments.md
+              - "Organitzacio.md": programacions_aula/3163/Organitzacio.md
+              - "Recursos.md": programacions_aula/3163/Recursos.md
+              - "SA1.md": programacions_aula/3163/SA1.md
+              - "Situacions.md": programacions_aula/3163/Situacions.md
+              - "Temps.md": programacions_aula/3163/Temps.md
+          - "3164":
+              - "index.md": programacions_aula/3164/index.md
+              - "Criteris.md": programacions_aula/3164/Criteris.md
+              - "Diversitat.md": programacions_aula/3164/Diversitat.md
+              - "Instruments.md": programacions_aula/3164/Instruments.md
+              - "Organitzacio.md": programacions_aula/3164/Organitzacio.md
+              - "Recursos.md": programacions_aula/3164/Recursos.md
+              - "SA1.md": programacions_aula/3164/SA1.md
+              - "Situacions.md": programacions_aula/3164/Situacions.md
+              - "Temps.md": programacions_aula/3164/Temps.md
+          - "TU01CF":
+              - "index.md": programacions_aula/TU01CF/index.md
+              - "Criteris.md": programacions_aula/TU01CF/Criteris.md
+              - "Diversitat.md": programacions_aula/TU01CF/Diversitat.md
+              - "Instruments.md": programacions_aula/TU01CF/Instruments.md
+              - "Organitzacio.md": programacions_aula/TU01CF/Organitzacio.md
+              - "Recursos.md": programacions_aula/TU01CF/Recursos.md
+              - "SA1.md": programacions_aula/TU01CF/SA1.md
+              - "Situacions.md": programacions_aula/TU01CF/Situacions.md
+              - "Temps.md": programacions_aula/TU01CF/Temps.md
+          - "TU02CF":
+              - "index.md": programacions_aula/TU02CF/index.md
+              - "Criteris.md": programacions_aula/TU02CF/Criteris.md
+              - "Diversitat.md": programacions_aula/TU02CF/Diversitat.md
+              - "Instruments.md": programacions_aula/TU02CF/Instruments.md
+              - "Organitzacio.md": programacions_aula/TU02CF/Organitzacio.md
+              - "Recursos.md": programacions_aula/TU02CF/Recursos.md
+              - "SA1.md": programacions_aula/TU02CF/SA1.md
+              - "Situacions.md": programacions_aula/TU02CF/Situacions.md
+              - "Temps.md": programacions_aula/TU02CF/Temps.md
+  - "Annexos":
+      - "Entrevista": annexos/Annex1-Entrevista.md
+      - "Interessos": annexos/Annex2-Interessos.md
+      - "Seguiment PAT": annexos/Annex3-SeguimentPAT.md
+      - "Enquesta alumnat": annexos/Annex4-EnquestaAlumnat.md
+      - "Autoavaluació docent": annexos/Annex-Autoavaluacio-Docent.md
+      - "Enquesta alumnat": annexos/Annex-Enquesta-Alumnat.md
+      - "Planificació activitat": annexos/Annex-Planificacio-Activitat.md
+      - "Valoració activitat": annexos/Annex-Valoracio-Activitat.md
