@@ -1,4 +1,7 @@
 site_name: Projecte Curricular del Cicle Formatiu
+docs_dir: md-docs
+site_dir: docs
+site_url: https://juatafe.github.io/PCCF-FPB-Inform-tica/
 
 theme: 
   name: material
